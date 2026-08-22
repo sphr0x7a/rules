@@ -7,5 +7,6 @@ googleapis.com
 .googleapis.cn
 .myaccount.google.com
 .google-analytics.com
+.google.dev
 .pixel.google.com
 .ip.google.com
