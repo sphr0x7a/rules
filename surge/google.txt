@@ -1,5 +1,6 @@
 # google.com
 # .youtube.com
+# .gmail.com
 play.google.com
 googleapis.com
 .googleapis.cn
