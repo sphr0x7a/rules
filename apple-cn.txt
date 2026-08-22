@@ -1,0 +1,7 @@
+.icloud.com.cn
+.apple.com.cn
+.gs-loc-cn.apple.com
+cl2-cn.apple.com
+cl4-cn.apple.com
+gspe79-cn-ssl.ls.apple.com
+gspe21-cn-ssl.ls.apple.com
