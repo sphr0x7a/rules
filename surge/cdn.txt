@@ -1,4 +1,5 @@
 # Google
+# .gstatic.com
 # .photos.google.com
 #.drive.google.com
 # .docs.google.com
@@ -9,41 +10,18 @@
 # .video.google.com
 .xn--ngstr-lra8j.com
 .android.googleapis.com
-
 .dl.google.com
-chart.googleapis.com
-fonts.googleapis.com
-ajax.googleapis.com
 .googleusercontent.com
-.storage.googleapis.com
-.firestore.googleapis.com
-.firebasestorage.googleapis.com
-.commondatastorage.googleapis.com
 .content-storage-upload.googleapis.com
 .usercontent.google.com
 cdn.firebase.com
 .ggpht.com
 .bp.blogspot.com
 .blogblog.com
-img.youtube.com
 static.corp.google.com
 safebrowsing.google.com
-safebrowsing.googleapis.com
 android-safebrowsing.google.com
 cdn.googlesource.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com
-encrypted-vtbn0.gstatic.com
-encrypted-vtbn1.gstatic.com
-encrypted-vtbn2.gstatic.com
-encrypted-vtbn3.gstatic.com
-t0.gstatic.com
-t1.gstatic.com
-t2.gstatic.com
-t3.gstatic.com
-maps.gstatic.com
 .googleadservices.com
 .connectivitycheck.android.com
 
