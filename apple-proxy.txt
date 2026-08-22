@@ -1,0 +1,4 @@
+.testflight.apple.com
+apple.com
+gs-loc.apple.com
+gspe1-ssl.ls.apple.com
