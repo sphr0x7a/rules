@@ -1,7 +1,7 @@
 # google.com
 # .youtube.com
 # .gmail.com
-# .recaptcha.net
+.recaptcha.net
 .play.google.com
 googleapis.com
 .googleapis.cn
