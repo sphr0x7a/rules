@@ -1,0 +1,12 @@
+.iosapp.itunes.apple.com
+.cdn-apple.com
+.icloud.com
+.icloud-content.com
+.itunes.apple.com
+.mzstatic.com
+.weatherkit.apple.com
+
+# Push
+.push.apple.com
+.akadns.net
+.apple.com.edgekey.net
