@@ -1,0 +1,7 @@
+.notebook.google.com
+.notebooklm.google.com
+.notebooklm.google
+.notebooklm-pa.googleapis.com
+.labs.google.com
+.labs.google
+.generativelanguage.googleapis.com
