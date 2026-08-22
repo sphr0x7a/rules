@@ -1,0 +1,43 @@
+# Tencent
+.qq.com
+.tencent.com
+.myqcloud.com
+.qpic.com
+
+# Alibaba
+.alicdn.com
+.aliyuncs.com
+.amap.com
+.qchannel01.cn
+.alidns.com
+.autonavi.com
+.alipayobjects.com
+
+# Xiaohongshu
+.xhscdn.com
+.xhscdn.net
+
+# Shopping
+.jd.com
+.360buyimg.com
+.taobao.com
+.pinduoduo.com
+.pddpic.com
+.goofish.com
+
+# Meituan
+.meituan.com
+.meituan.net
+.dianping.com
+.maoyan.com
+.mtyun.com
+.neixin.cn
+.sankuai.com
+
+# Others
+.tliveapp.com
+.12306.cn
+.dbankcloud.cn
+.todesk.com
+.umeng.com
+.umengcloud.com
