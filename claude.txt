@@ -1,0 +1,5 @@
+.cdn.usefathom.com
+.anthropic.com
+.claude.ai
+.claude.com
+.claudeusercontent.com
