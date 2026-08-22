@@ -1,0 +1,12 @@
+google.com
+.youtube.com
+play.google.com
+.googleapis.com
+.googleapis.cn
+.recaptcha.net
+myaccount.google.com
+pixel.google.com
+ip.google.com
+.google-analytics.com
+.googletagmanager.com
+.location.services.mozilla.com
