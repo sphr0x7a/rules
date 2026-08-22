@@ -1,0 +1,16 @@
+# Tencent
+.qq.com
+.tencent.com
+.myqcloud.com
+.qpic.com
+
+# Alibaba
+.alicdn.com
+.aliyuncs.com
+.amap.com
+.qchannel01.cn
+.alidns.com
+
+# Xiaohongshu
+.xhscdn.com
+.xhscdn.net
