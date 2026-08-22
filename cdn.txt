@@ -1,0 +1,56 @@
+# Google
+.googlevideo.com
+.googleusercontent.com
+.content-storage-upload.googleapis.com
+.content-storage-download.googleapis.com
+.photos.googleapis.com
+.photoslibrary.googleapis.com
+.upload.googleapis.com
+.photosdata-pa.googleapis.com
+.video.google.com
+.optimizationguide-pa.googleapis.com
+.ggpht.com
+.dl.google.com
+.usercontent.google.com
+.googleadservices.com
+.googlesyndication.com
+.1e100.net
+
+# YouTube
+# .ytimg.com
+
+# Spotify
+# .scdn.io
+# .spotifycdn.com
+# .spotifycdn.net
+
+# Meta
+# .cdninstagram.com
+# .fbcdn.com
+# .cdn.fbsbx.com
+# .fbcdn.net
+
+# TikTok
+.tiktokcdn-us.com
+.tiktokcdn.com
+
+# Telegram
+.cdn-telegram.org
+.telegram-cdn.org
+.telegramdownload.com
+.usercontent.dev
+
+# GitHub
+.githubusercontent.com
+.githubassets.com
+.ghcr.io
+.git.io
+
+# Snapchat
+.sc-cdn.net
+
+# X
+.twing.com
+
+# Pornhub
+.phncdn.com
