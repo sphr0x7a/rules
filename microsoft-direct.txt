@@ -1,0 +1,6 @@
+.msn.cn
+.data.microsoft.com
+.windows.com
+.windowsupdate.com
+.msftconnecttest.com
+.msftncsi.com
