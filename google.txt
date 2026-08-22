@@ -1,0 +1,11 @@
+# google.com
+# .youtube.com
+# .gmail.com
+# .recaptcha.net
+.play.google.com
+googleapis.com
+.googleapis.cn
+.myaccount.google.com
+.google-analytics.com
+.pixel.google.com
+.ip.google.com
