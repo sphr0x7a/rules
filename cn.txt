@@ -3,6 +3,7 @@
 .qq.com.cn
 .tencent.com
 .tencent-cloud.net
+.tencentmusic.com
 .iot-tencent.com
 .gtimg.com
 .myqcloud.com
@@ -22,6 +23,7 @@
 # Alibaba
 .alicdn.com
 .aliyuncs.com
+.alipay.com
 .amap.com
 .qchannel01.cn
 .alidns.com
@@ -76,6 +78,8 @@
 .hao123.com
 .hao123.net
 
+# Moji
+.moji.com
 
 # Deepseek
 .deepseek.com
