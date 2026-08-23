@@ -12,6 +12,7 @@
 .alidns.com
 .autonavi.com
 .alipayobjects.com
+.dingtalk.com
 
 # Xiaohongshu
 .xhscdn.com
@@ -34,7 +35,44 @@
 .neixin.cn
 .sankuai.com
 
+# Deepseek
+.deepseek.com
+.zztfly.com
+.volces.com
+
+# Kimi
+.moonshot.cn
+
+# 中國農業銀行
+.abchina.com
+.abchina.com.cn
+.95599.cn
+
+# Ctrip
+.ctrip.com
+.c-ctrip.com
+.tripcdn.cn
+
+# 歌曲寶
+.gequbao.com
+.gequbao.net
+
+# 123雲盤
+.123pan.com
+.xaidc.com
+.123295.com
+.123957.com
+.123795.com
+.cjjd19.com
+
+# 古文島
+.guwendao.net
+
+# CN GOV
+.gov.cn
+
 # Others
+.chelaile.net.cn
 .tliveapp.com
 .12306.cn
 .dbankcloud.cn
