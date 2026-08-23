@@ -38,6 +38,8 @@
 # TikTok
 .tiktokcdn-us.com
 .tiktokcdn.com
+.tiktokv.us
+.tiktokv.eu
 
 # Telegram
 .cdn-telegram.org
