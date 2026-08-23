@@ -52,7 +52,7 @@ sf-coze-web-cdn.coze.com
 .usercontent.dev
 
 # GitHub
-.githubusercontent.com
+# .githubusercontent.com
 .githubassets.com
 .ghcr.io
 .git.io
