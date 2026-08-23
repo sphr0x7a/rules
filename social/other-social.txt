@@ -21,3 +21,6 @@
 .redd.it
 .reddit.com
 .redditmail.com
+
+# Snapchat
+.snapchat.com
