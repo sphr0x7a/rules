@@ -14,6 +14,7 @@
 .notifications-pa.googleapis.com
 .signaler-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
+.firebaselogging-pa.googleapis.com
 .ggpht.com
 .dl.google.com
 .usercontent.google.com
