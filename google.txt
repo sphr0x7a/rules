@@ -4,6 +4,10 @@
 .oauth2.google.com
 .recaptcha.net
 .play.google.com
+.oauthaccountmanager.googleapis.com
+.youtubei.googleapis.com
+.play.googleapis.com
+.oauth2.googleapis.com
 googleapis.com
 .googleapis.cn
 .myaccount.google.com
