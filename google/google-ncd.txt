@@ -1,0 +1,4 @@
+.photos.google.com
+.drive.google.com
+.keep.google.com
+.docs.google.com
