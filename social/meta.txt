@@ -1,5 +1,5 @@
 # Instagram
-.instagram.com
+# .instagram.com
 
 # Facebook
 .facebook.com
