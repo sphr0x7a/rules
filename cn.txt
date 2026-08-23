@@ -45,6 +45,7 @@
 .xiaohongshu.com
 .xhscdn.com
 .xhscdn.net
+.rednotecdn.com
 
 # Shopping
 .jd.com
@@ -133,6 +134,7 @@
 .tliveapp.com
 .12306.cn
 .dbankcloud.cn
+.dbankcdn.cn
 .todesk.com
 .umeng.com
 .umengcloud.com
