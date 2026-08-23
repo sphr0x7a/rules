@@ -12,6 +12,7 @@
 .content-autofill.googleapis.com
 googleapis.com
 .googleapis.cn
+.ipify.org
 .myaccount.google.com
 .google-analytics.com
 .google.dev
