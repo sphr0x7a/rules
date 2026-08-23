@@ -1,5 +1,6 @@
 .icloud.com.cn
 .apple.com.cn
+.apple.cn
 .gs-loc-cn.apple.com
 .cl2-cn.apple.com
 .cl4-cn.apple.com
