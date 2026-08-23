@@ -1,6 +1,7 @@
 # google.com
 # .youtube.com
 # .gmail.com
+.gemini.google.com
 .oauth2.google.com
 .recaptcha.net
 .play.google.com
