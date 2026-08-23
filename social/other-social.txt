@@ -12,6 +12,10 @@
 .discordapp.com
 .discordapp.io
 .discordapp.net
+.discordstatus.com
+.discordpartygames.com
+.discordmerch.com
+.discordsays.com
 
 # Reddit
 .redd.it
