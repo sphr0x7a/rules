@@ -1,0 +1,14 @@
+# Instagram
+.instagram.com
+
+# Facebook
+.facebook.com
+
+# WhatsApp
+.whatsapp.com
+.whatsapp.net
+.whatsapp.biz
+.bintray.com
+
+# Threads
+.threads.net
