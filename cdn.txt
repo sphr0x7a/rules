@@ -41,6 +41,9 @@
 .tiktokv.us
 .tiktokv.eu
 .tiktokv.com
+.ibytedtos.com
+.bytedapm.com
+sf-coze-web-cdn.coze.com
 
 # Telegram
 .cdn-telegram.org
@@ -63,6 +66,13 @@
 .twimg.org
 .t.co
 
+# Discord
+.discordcdn.com
+.cdn.discordapp.com
+.images-ext-1.discordapp.net
+.images-ext-2.discordapp.net
+.media.discordapp.net
+
 # Pornhub
 .phncdn.com
 
@@ -72,6 +82,22 @@
 .reddituploads.com
 .reddituploads.com.cdn-cf.behance.net
 .reddituploads.com.cdn-cf.dropbox.com
+embed.reddit.com
+w3-reporting.reddit.com
+
+# Wikipedia
+.upload.wikimedia.org
+.intake-logging.wikimedia.org
+.maps.wikimedia.org
 
 # Lemon8
 .lemon8cdn.com
+
+# Steam
+.steamstatic.com
+steamuserimages-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steamvideo-a.akamaihd.net
+.steamusercontent.com
+steamcdn-a.akamaihd.net
+media.steampowered.com
