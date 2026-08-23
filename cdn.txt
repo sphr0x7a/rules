@@ -6,9 +6,12 @@
 .photos.googleapis.com
 .photoslibrary.googleapis.com
 .upload.googleapis.com
+.update.googleapis.com
 .photosdata-pa.googleapis.com
 .video.google.com
+.clientservices.googleapis.com
 .optimizationguide-pa.googleapis.com
+.notifications-pa.googleapis.com
 .ggpht.com
 .dl.google.com
 .usercontent.google.com
