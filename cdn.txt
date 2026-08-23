@@ -12,6 +12,8 @@
 .clientservices.googleapis.com
 .optimizationguide-pa.googleapis.com
 .notifications-pa.googleapis.com
+.signaler-pa.googleapis.com
+.robinfrontend-pa.googleapis.com
 .ggpht.com
 .dl.google.com
 .usercontent.google.com
