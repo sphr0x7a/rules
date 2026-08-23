@@ -12,7 +12,7 @@
 .content-autofill.googleapis.com
 .subscriptionsfirstparty-pa.googleapis.com
 .signaler-pa.googleapis.com
-.robinfrontend.googleapis.com
+.robinfrontend-pa.googleapis.com
 googleapis.com
 .googleapis.cn
 .ipify.org
