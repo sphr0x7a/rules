@@ -175,3 +175,13 @@ IP-CIDR,59.111.238.29/32,no-resolve
 
 # Xiaomi
 IP-CIDR,114.224.0.0/11,no-resolve
+
+# Others
+IP-CIDR,119.29.29.0/24,DIRECT,no-resolve
+IP-CIDR,101.91.140.0/24,DIRECT,no-resolve
+IP-CIDR,122.9.13.0/24,DIRECT,no-resolve
+IP-CIDR,122.9.15.0/24,DIRECT,no-resolve
+IP-CIDR,203.119.238.0/24,DIRECT,no-resolve
+IP-CIDR,203.119.204.0/24,DIRECT,no-resolve
+IP-CIDR,203.119.238.0/24,DIRECT,no-resolve
+IP-CIDR,111.202.18.0/24,DIRECT,no-resolve
