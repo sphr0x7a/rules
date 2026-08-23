@@ -1,0 +1,9 @@
+# X
+.x.com
+.twitter.com
+.t.co
+
+# Reddit
+.redd.it
+.reddit.com
+.redditmail.com
