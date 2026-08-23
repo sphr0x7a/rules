@@ -12,6 +12,7 @@
 .clientservices.googleapis.com
 .optimizationguide-pa.googleapis.com
 .notifications-pa.googleapis.com
+.iosantiabuse-pa.googleapis.com
 .signaler-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
 .firebaselogging-pa.googleapis.com
