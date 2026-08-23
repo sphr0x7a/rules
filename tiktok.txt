@@ -1,0 +1,10 @@
+# TikTok
+.tiktok.com
+.byteoversea.com
+.capcut.com
+.tik-tokapi.com
+.tiktokmusic.app
+
+# Lemon8
+.lemon8-app.com
+.lemon8-app.com.ttdns2.com
