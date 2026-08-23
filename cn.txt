@@ -1,8 +1,22 @@
 # Tencent
 .qq.com
 .tencent.com
+.tencent-cloud.net
+.iot-tencent.com
+.gtimg.com
 .myqcloud.com
+.qlogo.cn
 .qpic.com
+.qpic.cn
+.servicewechat.com
+.tenpay.com
+.wechat.com
+.wechatlegal.net
+.wechatos.net
+.wechatpay.com
+.weixin.com
+.weixinbridge.com
+.weixinsxy.com
 
 # Alibaba
 .alicdn.com
@@ -14,7 +28,17 @@
 .alipayobjects.com
 .dingtalk.com
 
+# Bilibili
+.bilibili.com
+.b23.tv
+.ourdvsss.com
+.00cdn.com
+.ksyungslb.com
+.akamaized.net
+.bilivideo.com
+
 # Xiaohongshu
+.xiaohongshu.com
 .xhscdn.com
 .xhscdn.net
 
@@ -35,6 +59,22 @@
 .neixin.cn
 .sankuai.com
 
+# NetEase
+.126.com
+.126.net
+.163.com
+.netease.com
+.yeah.net
+
+# Baidu
+.baidu.com
+.baidu.cn
+.baidupcs.com
+.baidupcs.cn
+.hao123.com
+.hao123.net
+
+
 # Deepseek
 .deepseek.com
 .zztfly.com
@@ -43,7 +83,7 @@
 # Kimi
 .moonshot.cn
 
-# 中國農業銀行
+# ABC
 .abchina.com
 .abchina.com.cn
 .95599.cn
