@@ -1,4 +1,9 @@
 .live.com
 .outlook.com
+.outlookmobile.com
 .outlook.office365.com
 .hotmail.com
+.office.com
+.onedrive.com
+.onenote.com
+.sharepoint.com
