@@ -22,24 +22,25 @@
 .1e100.net
 
 # YouTube
-# .ytimg.com
+.ytimg.com
 
 # Spotify
-# .scdn.io
-# .spotifycdn.com
-# .spotifycdn.net
+.scdn.io
+.spotifycdn.com
+.spotifycdn.net
 
 # Meta
-# .cdninstagram.com
-# .fbcdn.com
-# .cdn.fbsbx.com
-# .fbcdn.net
+.cdninstagram.com
+.fbcdn.com
+.cdn.fbsbx.com
+.fbcdn.net
 
 # TikTok
 .tiktokcdn-us.com
 .tiktokcdn.com
 .tiktokv.us
 .tiktokv.eu
+.tiktokv.com
 
 # Telegram
 .cdn-telegram.org
@@ -61,3 +62,6 @@
 
 # Pornhub
 .phncdn.com
+
+# Lemon8
+.lemon8cdn.com
