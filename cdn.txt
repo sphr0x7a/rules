@@ -58,10 +58,20 @@
 .sc-cdn.net
 
 # X
-.twing.com
+.twimg.com
+.twimg.co
+.twimg.org
+.t.co
 
 # Pornhub
 .phncdn.com
+
+# Reddit
+.redditmedia.com
+.redditstatic.com
+.reddituploads.com
+.reddituploads.com.cdn-cf.behance.net
+.reddituploads.com.cdn-cf.dropbox.com
 
 # Lemon8
 .lemon8cdn.com
