@@ -9,6 +9,9 @@
 .update.googleapis.com
 .photosdata-pa.googleapis.com
 .video.google.com
+.clients.google.com
+.clients3.google.com
+.clients4.google.com
 .clientservices.googleapis.com
 .optimizationguide-pa.googleapis.com
 .notifications-pa.googleapis.com
