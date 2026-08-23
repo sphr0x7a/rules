@@ -1,9 +1,12 @@
 .live.com
+.msn.com
 .outlook.com
 .outlookmobile.com
 .outlook.office365.com
 .hotmail.com
 .office.com
 .onedrive.com
+.microsoftpersonalcontent.com
 .onenote.com
 .sharepoint.com
+.sharepointonline.com
