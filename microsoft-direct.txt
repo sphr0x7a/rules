@@ -4,3 +4,6 @@
 .windowsupdate.com
 .msftconnecttest.com
 .msftncsi.com
+.xbox.com
+.xboxlive.com
+.xboxservices.com
