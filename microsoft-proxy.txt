@@ -1,3 +1,4 @@
+# microsoft.com
 .live.com
 .msn.com
 .outlook.com
