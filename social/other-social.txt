@@ -3,6 +3,16 @@
 .twitter.com
 .t.co
 
+# Discord
+.discord.com
+.discord.gg
+.discord.co
+.discord-activities.com
+.discordactivities.com
+.discordapp.com
+.discordapp.io
+.discordapp.net
+
 # Reddit
 .redd.it
 .reddit.com
