@@ -10,6 +10,9 @@
 .play.googleapis.com
 .oauth2.googleapis.com
 .content-autofill.googleapis.com
+.subscriptionsfirstparty-pa.googleapis.com
+.signaler-pa.googleapis.com
+.robinfrontend.googleapis.com
 googleapis.com
 .googleapis.cn
 .ipify.org
