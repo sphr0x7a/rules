@@ -1,0 +1,11 @@
+# Octopus
+.octopus.com.hk
+.octopus-cards.com
+.octopus.queue-it.net
+
+# Viu
+.viu.tv
+# .nowe.com
+
+# Gov HK
+.gov.hk
