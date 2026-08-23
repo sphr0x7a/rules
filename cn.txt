@@ -78,6 +78,13 @@
 .hao123.com
 .hao123.net
 
+# Xiaomi
+.xiaomi.net
+.xiaomi.com
+.miui.com
+.mi.com
+.xiaomixiaoai.com
+
 # Moji
 .moji.com
 
