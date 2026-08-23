@@ -1,5 +1,6 @@
 # Tencent
 .qq.com
+.qq.com.cn
 .tencent.com
 .tencent-cloud.net
 .iot-tencent.com
@@ -31,6 +32,7 @@
 # Bilibili
 .bilibili.com
 .b23.tv
+.biliapi.net
 .ourdvsss.com
 .00cdn.com
 .ksyungslb.com
@@ -92,6 +94,10 @@
 .ctrip.com
 .c-ctrip.com
 .tripcdn.cn
+
+# Huawei
+.huawei.com
+.hicloud.com
 
 # 歌曲寶
 .gequbao.com
