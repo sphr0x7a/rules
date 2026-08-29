@@ -12,7 +12,17 @@
 .clients.google.com
 .clients3.google.com
 .clients4.google.com
+.clients5.google.com
+.clients6.google.com
+.lh3.google.com
+.lh4.google.com
+.lh5.google.com
+.lh6.google.com
+.ogs.google.com
+.safebrowsing.google.com
 .clientservices.googleapis.com
+.update.googleapis.com
+.safebrowsing.googleapis.com
 .optimizationguide-pa.googleapis.com
 .notifications-pa.googleapis.com
 .iosantiabuse-pa.googleapis.com
