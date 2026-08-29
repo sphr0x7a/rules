@@ -1,5 +1,7 @@
 .msn.cn
 .data.microsoft.com
+.mp.microsoft.com
+.update.microsoft.com
 .windows.com
 .windowsupdate.com
 .msftconnecttest.com
