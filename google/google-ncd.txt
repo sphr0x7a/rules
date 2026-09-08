@@ -3,3 +3,4 @@
 .drive.google.com
 .keep.google.com
 .docs.google.com
+.mail.google.com
