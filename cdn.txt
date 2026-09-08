@@ -34,9 +34,10 @@
 .ytimg.com
 
 # Spotify
-.scdn.io
 .spotifycdn.com
 .spotifycdn.net
+.scdn.io
+.scdn.co
 
 # Meta
 .cdninstagram.com
