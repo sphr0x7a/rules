@@ -114,6 +114,7 @@
 .dbankcloud.cn
 .dbankcloud.com
 .dbankcdn.com
+.dbankcdn.cn
 
 # 歌曲寶
 .gequbao.com
@@ -137,7 +138,6 @@
 .chelaile.net.cn
 .tliveapp.com
 .12306.cn
-.dbankcdn.cn
 .todesk.com
 .umeng.com
 .umengcloud.com
