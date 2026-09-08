@@ -1,6 +1,6 @@
 .gmail.com
+.mail.google.com
 .photos.google.com
 .drive.google.com
 .keep.google.com
 .docs.google.com
-.mail.google.com
