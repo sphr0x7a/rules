@@ -107,6 +107,7 @@ w3-reporting.reddit.com
 
 # Dcard
 .megapx.dcard.tw
+.megapx-assets.dcard.tw
 .sticker-assets.dcard.tw
 .assets.dcard.tw
 .image.dcard.tw
@@ -116,6 +117,9 @@ w3-reporting.reddit.com
 .gsr.dcard.tw
 .bd.dcard.tw
 .bilanx.dcard.tw
+.taboola.com
+.aotter.net
+.aottercdn.com
 
 # Lemon8
 .lemon8cdn.com
