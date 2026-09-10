@@ -61,6 +61,10 @@ sf-coze-web-cdn.coze.com
 .telegram-cdn.org
 .telegramdownload.com
 .usercontent.dev
+.graph.org
+.legra.ph
+.tdesktop.com
+.telegra.ph
 
 # GitHub
 # .githubusercontent.com
