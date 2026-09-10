@@ -105,6 +105,18 @@ w3-reporting.reddit.com
 .intake-logging.wikimedia.org
 .maps.wikimedia.org
 
+# Dcard
+.megapx.dcard.tw
+.sticker-assets.dcard.tw
+.assets.dcard.tw
+.image.dcard.tw
+.video.dcard.tw
+# Logs/Ads
+.dad-api.dcard.tw
+.gsr.dcard.tw
+.bd.dcard.tw
+.bilanx.dcard.tw
+
 # Lemon8
 .lemon8cdn.com
 
