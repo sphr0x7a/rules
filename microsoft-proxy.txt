@@ -4,6 +4,7 @@ microsoft.com
 .outlook.com
 .outlookmobile.com
 .outlook.office365.com
+.microsoftonline.com
 .hotmail.com
 .office.com
 .onedrive.com
