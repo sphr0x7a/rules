@@ -1,3 +1,4 @@
 .testflight.apple.com
 apple.com
+www.apple.com
 .gspe1-ssl.ls.apple.com
