@@ -1,0 +1,12 @@
+# Perplexity
+.pplx-res.cloudinary.com
+.perplexity.ai
+.pplx.ai
+.perplexity.com
+
+# Grok
+.x.ai
+.grok.com
+
+# Manus
+.manus.im
