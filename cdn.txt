@@ -108,6 +108,11 @@ w3-reporting.reddit.com
 # Lemon8
 .lemon8cdn.com
 
+# Dropbox
+.dropboxusercontent.com
+.getdropbox.com
+.paper-attachments.s3.amazonaws.com
+
 # Steam
 .steamstatic.com
 steamuserimages-a.akamaihd.net
