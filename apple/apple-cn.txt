@@ -24,3 +24,5 @@
 .gspe19-cn.ls-apple.com.akadns.net
 .gspe19-2-cn-ssl.ls-apple.com.akadns.net
 .gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+.mesu-china.apple.com.akadns.net
+.support-china.apple-support.akadns.net
