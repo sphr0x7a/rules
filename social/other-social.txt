@@ -1,3 +1,21 @@
+# Telegram
+.t.me
+.api.imem.app
+.api.swiftgram.app
+.comments.app
+.contest.com
+.mbrx.app
+.quiz.directory
+.stel.com
+.telega.one
+.telegram.dog
+.telegram.me
+.telegram.org
+.telegram.space
+.telesco.pe
+.tg.dev
+.tx.me
+
 # X
 .x.com
 .twitter.com
