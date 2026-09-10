@@ -89,7 +89,6 @@
 .mesu-cdn.apple.com.akadns.net
 .clientflow.apple.com.akadns.net
 .guzzoni-apple-com.v.aaplimg.com
-.mesu-china.apple.com.akadns.net
 .swallow-apple-com.v.aaplimg.com
 .swscan-cdn.apple.com.akadns.net
 .adcdownload.apple.com.akadns.net
@@ -107,7 +106,6 @@
 .prod-support.apple-support.akadns.net
 .updates-http.cdn-apple.com.akadns.net
 .store.storeimages.apple.com.akadns.net
-.support-china.apple-support.akadns.net
 .init-p01md-lb.push-apple.com.akadns.net
 .init-p01st-lb.push-apple.com.akadns.net
 .init-s01st-lb.push-apple.com.akadns.net
