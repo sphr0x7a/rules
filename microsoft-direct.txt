@@ -1,11 +1,35 @@
+# Thanks Accademia/Additional_Rule_For_Clash/MicrosoftAPPs
+# Windows
 .msn.cn
 .data.microsoft.com
 .mp.microsoft.com
 .update.microsoft.com
 .windows.com
+.windows.net
 .windowsupdate.com
+# 核心底層服務 & 網路判斷
+.svc.ms
 .msftconnecttest.com
 .msftncsi.com
+
+# Xbox
 .xbox.com
 .xboxlive.com
 .xboxservices.com
+
+# Microsoft Store
+.microsoftstore.com
+.onestore.ms
+
+# 身份驗證 & 安全
+.microsoftonline.com
+.microsoftonline-p.com
+.microsoftonline-p.net
+.msauth.net
+.msauthimages.net
+.msftauth.net
+.msftauthimages.net
+.phonefactor.net
+.msidentity.com
+.msftidentity.com
+.microsoftazuread-sso.com
