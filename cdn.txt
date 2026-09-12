@@ -100,6 +100,7 @@ img-s-msn-com.akamaized.net
 
 # Pornhub
 .phncdn.com
+.phprcdn.com
 
 # Reddit
 .redditmedia.com
