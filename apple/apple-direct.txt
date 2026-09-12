@@ -1,3 +1,5 @@
+# Thanks SukkaW/Surge
+# Thanks Elysian-Realme/FuGfConfig
 .iosapp.itunes.apple.com
 .aod.itunes.apple.com
 .apptrailers.itunes.apple.com
