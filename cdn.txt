@@ -72,6 +72,16 @@ sf-coze-web-cdn.coze.com
 .ghcr.io
 .git.io
 
+# Microsoft
+.apis.live.net
+.statics.teams.cdn.live.net
+.storage.msn.com
+.store-images.s-microsoft.com
+.files.1drv.com
+.join.secure.skypeassets.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
+
 # Snapchat
 .sc-cdn.net
 
