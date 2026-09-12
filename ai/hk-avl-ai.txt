@@ -1,3 +1,11 @@
+# Copilot
+.copilot.microsoft.com
+.edge.microsoft.com
+.ecs.office.com
+.designer.microsoft.com
+.designerapp.osi.office.net
+.designerapp.officeapps.live.com
+
 # Perplexity
 .pplx-res.cloudinary.com
 .perplexity.ai
