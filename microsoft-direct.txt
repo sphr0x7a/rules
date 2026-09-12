@@ -12,6 +12,9 @@
 .msftconnecttest.com
 .msftncsi.com
 
+# CDN
+.cdn.office.net
+
 # Microsoft Store
 .microsoftstore.com
 .onestore.ms
