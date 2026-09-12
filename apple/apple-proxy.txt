@@ -1,4 +1,16 @@
+# Thanks Elysian-Realme/FuGfConfig
 .testflight.apple.com
+.developer.apple.com
 apple.com
 .www.apple.com
 .gspe1-ssl.ls.apple.com
+.hls-svod.itunes.apple.com
+.np-edge.itunes.apple.com
+.play-edge.itunes.apple.com
+.sandbox.itunes.apple.com
+.uts-api.itunes.apple.com
+.audio-ssl.itunes.apple.com
+.hls-amt.itunes.apple.com
+.hls.itunes.apple.com
+.tv.apple.com
+.ocsp.apple.com
