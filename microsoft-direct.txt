@@ -12,11 +12,6 @@
 .msftconnecttest.com
 .msftncsi.com
 
-# Xbox
-.xbox.com
-.xboxlive.com
-.xboxservices.com
-
 # Microsoft Store
 .microsoftstore.com
 .onestore.ms
@@ -33,3 +28,8 @@
 .msidentity.com
 .msftidentity.com
 .microsoftazuread-sso.com
+
+# Xbox
+.xbox.com
+.xboxlive.com
+.xboxservices.com
