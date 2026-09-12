@@ -8,6 +8,7 @@ microsoft.com
 .outlook.office365.com
 .hotmail.com
 .office.com
+.office.net
 .onedrive.com
 .1drv.com
 .1drv.ms
