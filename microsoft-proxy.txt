@@ -2,6 +2,7 @@
 microsoft.com
 .www.microsoft.com
 .live.com
+.live.net
 .msn.com
 .outlook.com
 .outlookmobile.com
