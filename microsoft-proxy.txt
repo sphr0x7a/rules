@@ -1,3 +1,4 @@
+# Thanks Accademia/Additional_Rule_For_Clash/MicrosoftAPPs
 microsoft.com
 .www.microsoft.com
 .live.com
@@ -5,11 +6,15 @@ microsoft.com
 .outlook.com
 .outlookmobile.com
 .outlook.office365.com
-.microsoftonline.com
 .hotmail.com
 .office.com
 .onedrive.com
+.1drv.com
+.1drv.ms
 .microsoftpersonalcontent.com
 .onenote.com
+.onenote.net
 .sharepoint.com
+.skypeassets.com
+.lync.com
 .sharepointonline.com
