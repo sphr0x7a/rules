@@ -2,7 +2,7 @@
 +.googlevideo.com
 +.googleusercontent.com
 +.content-storage-upload.googleapis.com
-# .content-storage-download.googleapis.com
+# +.content-storage-download.googleapis.com
 +.photos.googleapis.com
 +.photoslibrary.googleapis.com
 +.upload.googleapis.com
@@ -83,7 +83,7 @@ sf-coze-web-cdn.coze.com
 +.telegra.ph
 
 # GitHub
-# .githubusercontent.com
+# +.githubusercontent.com
 +.githubassets.com
 +.ghcr.io
 +.git.io
