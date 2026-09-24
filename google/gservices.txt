@@ -1,0 +1,9 @@
++.gmail.com
++.mail.google.com
++.photos.google.com
++.drive.google.com
++.keep.google.com
++.docs.google.com
+
+# Google Drive Client
++.www.googleapis.com
