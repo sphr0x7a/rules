@@ -1,156 +1,156 @@
 # Tencent
-.qq.com
-.qq.com.cn
-.tencent.com
-.tencent-cloud.net
-.tencentmusic.com
-.iot-tencent.com
-.gtimg.com
-.myqcloud.com
-.qlogo.cn
-.qpic.com
-.qpic.cn
-.servicewechat.com
-.tenpay.com
-.wechat.com
-.wechatlegal.net
-.wechatos.net
-.wechatpay.com
-.weixin.com
-.weixinbridge.com
-.weixinsxy.com
++.qq.com
++.qq.com.cn
++.tencent.com
++.tencent-cloud.net
++.tencentmusic.com
++.iot-tencent.com
++.gtimg.com
++.myqcloud.com
++.qlogo.cn
++.qpic.com
++.qpic.cn
++.servicewechat.com
++.tenpay.com
++.wechat.com
++.wechatlegal.net
++.wechatos.net
++.wechatpay.com
++.weixin.com
++.weixinbridge.com
++.weixinsxy.com
 
 # Alibaba
-.alicdn.com
-.aliyuncs.com
-.alipay.com
-.amap.com
-.qchannel01.cn
-.alidns.com
-.autonavi.com
-.alipayobjects.com
-.dingtalk.com
++.alicdn.com
++.aliyuncs.com
++.alipay.com
++.amap.com
++.qchannel01.cn
++.alidns.com
++.autonavi.com
++.alipayobjects.com
++.dingtalk.com
 
 # Bilibili
-.bilibili.com
-.b23.tv
-.biliapi.net
-.ourdvsss.com
-.00cdn.com
-.ksyungslb.com
-.akamaized.net
-.bilivideo.com
++.bilibili.com
++.b23.tv
++.biliapi.net
++.ourdvsss.com
++.00cdn.com
++.ksyungslb.com
++.akamaized.net
++.bilivideo.com
 
 # Xiaohongshu
-.xiaohongshu.com
-.xhscdn.com
-.xhscdn.net
-.rednotecdn.com
++.xiaohongshu.com
++.xhscdn.com
++.xhscdn.net
++.rednotecdn.com
 
 # Shopping
-.jd.com
-.360buyimg.com
-.taobao.com
-.pinduoduo.com
-.pddpic.com
-.goofish.com
++.jd.com
++.360buyimg.com
++.taobao.com
++.pinduoduo.com
++.pddpic.com
++.goofish.com
 
 # Douyin
-.amemv.com
-.douyincdn.com
-.douyinpic.com
-.douyinstatic.com
-.douyinvod.com
-.idouyinvod.com
-.ixigua.com
-.ixiguavideo.com
-.pstatp.com
-.snssdk.com
-.toutiao.com
++.amemv.com
++.douyincdn.com
++.douyinpic.com
++.douyinstatic.com
++.douyinvod.com
++.idouyinvod.com
++.ixigua.com
++.ixiguavideo.com
++.pstatp.com
++.snssdk.com
++.toutiao.com
 
 # Meituan
-.meituan.com
-.meituan.net
-.dianping.com
-.maoyan.com
-.mtyun.com
-.neixin.cn
-.sankuai.com
++.meituan.com
++.meituan.net
++.dianping.com
++.maoyan.com
++.mtyun.com
++.neixin.cn
++.sankuai.com
 
 # NetEase
-.126.com
-.126.net
-.163.com
-.netease.com
-.yeah.net
++.126.com
++.126.net
++.163.com
++.netease.com
++.yeah.net
 
 # Baidu
-.baidu.com
-.baidu.cn
-.baidupcs.com
-.baidupcs.cn
-.hao123.com
-.hao123.net
++.baidu.com
++.baidu.cn
++.baidupcs.com
++.baidupcs.cn
++.hao123.com
++.hao123.net
 
 # Xiaomi
-.xiaomi.net
-.xiaomi.com
-.miui.com
-.mi.com
-.xiaomixiaoai.com
++.xiaomi.net
++.xiaomi.com
++.miui.com
++.mi.com
++.xiaomixiaoai.com
 
 # Moji
-.moji.com
++.moji.com
 
 # Deepseek
-.deepseek.com
-.zztfly.com
-.volces.com
++.deepseek.com
++.zztfly.com
++.volces.com
 
 # Kimi
-.moonshot.cn
++.moonshot.cn
 
 # ABC
-.abchina.com
-.abchina.com.cn
-.95599.cn
++.abchina.com
++.abchina.com.cn
++.95599.cn
 
 # Ctrip
-.ctrip.com
-.c-ctrip.com
-.tripcdn.cn
++.ctrip.com
++.c-ctrip.com
++.tripcdn.cn
 
 # Huawei
-.huawei.com
-.huawei.com.cn
-.hicloud.com
-.dbankcloud.cn
-.dbankcloud.com
-.dbankcdn.com
-.dbankcdn.cn
++.huawei.com
++.huawei.com.cn
++.hicloud.com
++.dbankcloud.cn
++.dbankcloud.com
++.dbankcdn.com
++.dbankcdn.cn
 
 # 歌曲寶
-.gequbao.com
-.gequbao.net
++.gequbao.com
++.gequbao.net
 
 # 123雲盤
-.123pan.com
-.xaidc.com
-.123295.com
-.123957.com
-.123795.com
-.cjjd19.com
++.123pan.com
++.xaidc.com
++.123295.com
++.123957.com
++.123795.com
++.cjjd19.com
 
 # 古文島
-.guwendao.net
++.guwendao.net
 
 # CN GOV
-.gov.cn
++.gov.cn
 
 # Others
-.chelaile.net.cn
-.tliveapp.com
-.12306.cn
-.todesk.com
-.umeng.com
-.umengcloud.com
++.chelaile.net.cn
++.tliveapp.com
++.12306.cn
++.todesk.com
++.umeng.com
++.umengcloud.com
