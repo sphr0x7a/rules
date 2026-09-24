@@ -1,22 +1,22 @@
 # google.com
-# .youtube.com
-# .gmail.com
-.gemini.google.com
-.oauth2.google.com
-.recaptcha.net
-.play.google.com
-.oauthaccountmanager.googleapis.com
-.youtubei.googleapis.com
-.play.googleapis.com
-.oauth2.googleapis.com
-.content-autofill.googleapis.com
-.subscriptionsfirstparty-pa.googleapis.com
-.robinfrontend-pa.googleapis.com
+# +.youtube.com
+# +.gmail.com
++.gemini.google.com
++.oauth2.google.com
++.recaptcha.net
++.play.google.com
++.oauthaccountmanager.googleapis.com
++.youtubei.googleapis.com
++.play.googleapis.com
++.oauth2.googleapis.com
++.content-autofill.googleapis.com
++.subscriptionsfirstparty-pa.googleapis.com
++.robinfrontend-pa.googleapis.com
 googleapis.com
-.googleapis.cn
-.ipify.org
-.myaccount.google.com
-.google-analytics.com
-.google.dev
-.pixel.google.com
-.ip.google.com
++.googleapis.cn
++.ipify.org
++.myaccount.google.com
++.google-analytics.com
++.google.dev
++.pixel.google.com
++.ip.google.com
