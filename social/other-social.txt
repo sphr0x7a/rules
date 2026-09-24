@@ -1,44 +1,44 @@
 # Telegram
-.t.me
-.api.imem.app
-.api.swiftgram.app
-.comments.app
-.contest.com
-.mbrx.app
-.quiz.directory
-.stel.com
-.telega.one
-.telegram.dog
-.telegram.me
-.telegram.org
-.telegram.space
-.telesco.pe
-.tg.dev
-.tx.me
++.t.me
++.api.imem.app
++.api.swiftgram.app
++.comments.app
++.contest.com
++.mbrx.app
++.quiz.directory
++.stel.com
++.telega.one
++.telegram.dog
++.telegram.me
++.telegram.org
++.telegram.space
++.telesco.pe
++.tg.dev
++.tx.me
 
 # X
-.x.com
-.twitter.com
-.t.co
++.x.com
++.twitter.com
++.t.co
 
 # Discord
-.discord.com
-.discord.gg
-.discord.co
-.discord-activities.com
-.discordactivities.com
-.discordapp.com
-.discordapp.io
-.discordapp.net
-.discordstatus.com
-.discordpartygames.com
-.discordmerch.com
-.discordsays.com
++.discord.com
++.discord.gg
++.discord.co
++.discord-activities.com
++.discordactivities.com
++.discordapp.com
++.discordapp.io
++.discordapp.net
++.discordstatus.com
++.discordpartygames.com
++.discordmerch.com
++.discordsays.com
 
 # Reddit
-.redd.it
-.reddit.com
-.redditmail.com
++.redd.it
++.reddit.com
++.redditmail.com
 
 # Snapchat
-.snapchat.com
++.snapchat.com
