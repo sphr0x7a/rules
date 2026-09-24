@@ -1,5 +1,5 @@
-.cdn.usefathom.com
-.anthropic.com
-.claude.ai
-.claude.com
-.claudeusercontent.com
++.cdn.usefathom.com
++.anthropic.com
++.claude.ai
++.claude.com
++.claudeusercontent.com
