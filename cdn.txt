@@ -1,150 +1,166 @@
 # Google
-.googlevideo.com
-.googleusercontent.com
-.content-storage-upload.googleapis.com
++.googlevideo.com
++.googleusercontent.com
++.content-storage-upload.googleapis.com
 # .content-storage-download.googleapis.com
-.photos.googleapis.com
-.photoslibrary.googleapis.com
-.upload.googleapis.com
-.update.googleapis.com
-.photosdata-pa.googleapis.com
-.video.google.com
-.clients.google.com
-.clients3.google.com
-.clients4.google.com
-.clients5.google.com
-.clients6.google.com
-.lh3.google.com
-.lh4.google.com
-.lh5.google.com
-.lh6.google.com
-.ogs.google.com
-.safebrowsing.google.com
-.clientservices.googleapis.com
-.update.googleapis.com
-.safebrowsing.googleapis.com
-.ggpht.com
-.dl.google.com
-.usercontent.google.com
-.googleadservices.com
-.googlesyndication.com
-.1e100.net
++.photos.googleapis.com
++.photoslibrary.googleapis.com
++.upload.googleapis.com
++.update.googleapis.com
++.photosdata-pa.googleapis.com
++.video.google.com
++.clients.google.com
++.clients3.google.com
++.clients4.google.com
++.clients5.google.com
++.clients6.google.com
++.lh3.google.com
++.lh4.google.com
++.lh5.google.com
++.lh6.google.com
++.ogs.google.com
+# Google Play
++.xn--ngstr-lra8j.com
++.android.googleapis.com
++.android.com
++.gvt0.com
++.gvt1.com
++.gvt2.com
++.gvt3.com
++.gvt4.com
++.gvt5.com
++.gvt6.com
++.gvt7.com
++.gvt8.com
++.gvt9.com
++.googlepki.com
+#
++.safebrowsing.google.com
++.clientservices.googleapis.com
++.update.googleapis.com
++.safebrowsing.googleapis.com
++.ggpht.com
++.dl.google.com
++.usercontent.google.com
++.googleadservices.com
++.googlesyndication.com
++.1e100.net
 
 # YouTube
-.ytimg.com
++.ytimg.com
 
 # Spotify
-.spotifycdn.com
-.spotifycdn.net
-.scdn.io
-.scdn.co
++.spotifycdn.com
++.spotifycdn.net
++.scdn.io
++.scdn.co
 
 # Meta
-.cdninstagram.com
-.fbcdn.com
-.cdn.fbsbx.com
-.fbcdn.net
-.graph.facebook.com
++.cdninstagram.com
++.fbcdn.com
++.cdn.fbsbx.com
++.fbcdn.net
++.graph.facebook.com
 
 # TikTok
-.tiktokcdn-us.com
-.tiktokcdn.com
-.tiktokv.us
-.tiktokv.eu
-.tiktokv.com
-.ibytedtos.com
-.bytedapm.com
++.tiktokcdn-us.com
++.tiktokcdn.com
++.tiktokv.us
++.tiktokv.eu
++.tiktokv.com
++.ibytedtos.com
++.bytedapm.com
 sf-coze-web-cdn.coze.com
 
 # Telegram
-.cdn-telegram.org
-.telegram-cdn.org
-.telegramdownload.com
-.usercontent.dev
-.graph.org
-.legra.ph
-.tdesktop.com
-.telegra.ph
++.cdn-telegram.org
++.telegram-cdn.org
++.telegramdownload.com
++.usercontent.dev
++.graph.org
++.legra.ph
++.tdesktop.com
++.telegra.ph
 
 # GitHub
 # .githubusercontent.com
-.githubassets.com
-.ghcr.io
-.git.io
++.githubassets.com
++.ghcr.io
++.git.io
 
 # Microsoft
-.apis.live.net
-.statics.teams.cdn.live.net
-.storage.msn.com
-.store-images.s-microsoft.com
-.files.1drv.com
-.join.secure.skypeassets.com
++.apis.live.net
++.statics.teams.cdn.live.net
++.storage.msn.com
++.store-images.s-microsoft.com
++.files.1drv.com
++.join.secure.skypeassets.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 
 # Snapchat
-.sc-cdn.net
++.sc-cdn.net
 
 # X
-.twimg.com
-.twimg.co
-.twimg.org
-.t.co
++.twimg.com
++.twimg.co
++.twimg.org
++.t.co
 
 # Discord
-.discordcdn.com
-.cdn.discordapp.com
-.images-ext-1.discordapp.net
-.images-ext-2.discordapp.net
-.media.discordapp.net
++.discordcdn.com
++.cdn.discordapp.com
++.images-ext-1.discordapp.net
++.images-ext-2.discordapp.net
++.media.discordapp.net
 
 # Pornhub
-.phncdn.com
-.phprcdn.com
++.phncdn.com
++.phprcdn.com
 
 # Reddit
-.redditmedia.com
-.redditstatic.com
-.reddituploads.com
-.reddituploads.com.cdn-cf.behance.net
-.reddituploads.com.cdn-cf.dropbox.com
++.redditmedia.com
++.redditstatic.com
++.reddituploads.com
++.reddituploads.com.cdn-cf.behance.net
++.reddituploads.com.cdn-cf.dropbox.com
 embed.reddit.com
 w3-reporting.reddit.com
 
 # Wikipedia
-.upload.wikimedia.org
-.intake-logging.wikimedia.org
-.maps.wikimedia.org
++.upload.wikimedia.org
++.intake-logging.wikimedia.org
++.maps.wikimedia.org
 
 # Dcard
-.megapx.dcard.tw
-.megapx-assets.dcard.tw
-.sticker-assets.dcard.tw
-.assets.dcard.tw
-.image.dcard.tw
-.video.dcard.tw
++.megapx.dcard.tw
++.megapx-assets.dcard.tw
++.sticker-assets.dcard.tw
++.assets.dcard.tw
++.image.dcard.tw
++.video.dcard.tw
 # Logs/Ads
-.dad-api.dcard.tw
-.gsr.dcard.tw
-.bd.dcard.tw
-.bilanx.dcard.tw
-.taboola.com
-.aotter.net
-.aottercdn.com
++.dad-api.dcard.tw
++.gsr.dcard.tw
++.bd.dcard.tw
++.bilanx.dcard.tw
++.taboola.com
++.aotter.net
++.aottercdn.com
 
 # Lemon8
-.lemon8cdn.com
++.lemon8cdn.com
 
 # Dropbox
-.dropboxusercontent.com
-.getdropbox.com
-.paper-attachments.s3.amazonaws.com
++.dropboxusercontent.com
++.getdropbox.com
++.paper-attachments.s3.amazonaws.com
 
 # Steam
-.steamstatic.com
++.steamstatic.com
 steamuserimages-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamvideo-a.akamaihd.net
-.steamusercontent.com
++.steamusercontent.com
 steamcdn-a.akamaihd.net
 media.steampowered.com
