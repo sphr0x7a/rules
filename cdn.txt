@@ -98,6 +98,12 @@ sf-coze-web-cdn.coze.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 
+# Apple
++.devimages-cdn.apple.com
++.devstreaming-cdn.apple.com
++.js-cdn.music.apple.com
++.cdn.apple-cloudkit.com
+
 # Snapchat
 +.sc-cdn.net
 
