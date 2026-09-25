@@ -1,4 +1,5 @@
 +.tiktokcdn-us.com
++.tiktokcdn-eu.com
 +.tiktokcdn.com
 +.tiktokv.us
 +.tiktokv.eu
