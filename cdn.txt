@@ -68,6 +68,9 @@
 +.tiktokv.us
 +.tiktokv.eu
 +.tiktokv.com
++.tiktokw.us
++.tiktokw.eu
++.tiktokw.com
 +.ibytedtos.com
 +.bytedapm.com
 sf-coze-web-cdn.coze.com
