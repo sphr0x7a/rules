@@ -62,18 +62,7 @@
 +.fbcdn.net
 +.graph.facebook.com
 
-# TikTok
-+.tiktokcdn-us.com
-+.tiktokcdn.com
-+.tiktokv.us
-+.tiktokv.eu
-+.tiktokv.com
-+.tiktokw.us
-+.tiktokw.eu
-+.tiktokw.com
-+.ibytedtos.com
-+.bytedapm.com
-sf-coze-web-cdn.coze.com
+# TikTok CDN is in the 'social' folder
 
 # Telegram
 +.cdn-telegram.org
