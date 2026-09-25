@@ -7,3 +7,7 @@
 
 # Google Drive Client
 +.www.googleapis.com
+
+# Google Other Domains
++.google.com.hk
++.google.cn
