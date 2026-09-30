@@ -3,11 +3,8 @@
 +.googleusercontent.com
 +.content-storage-upload.googleapis.com
 # +.content-storage-download.googleapis.com
-+.photos.googleapis.com
-+.photoslibrary.googleapis.com
 +.upload.googleapis.com
 +.update.googleapis.com
-+.photosdata-pa.googleapis.com
 +.video.google.com
 +.clients.google.com
 +.clients3.google.com
@@ -162,3 +159,5 @@ steamvideo-a.akamaihd.net
 +.steamusercontent.com
 steamcdn-a.akamaihd.net
 media.steampowered.com
+
+# Others
