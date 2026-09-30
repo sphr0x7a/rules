@@ -42,3 +42,9 @@
 
 # Snapchat
 +.snapchat.com
+
+# Pinterest
++.pinterest.com
+
+# LinkedIn
++.linkedin.com
