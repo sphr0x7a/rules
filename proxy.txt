@@ -22,5 +22,7 @@
 
 # Others
 +.kansuiun.com
++.crashlytics.com
++.superwall.com
 +.onesignal.com
 +.bugsnag.com
