@@ -43,6 +43,11 @@
 # Snapchat
 +.snapchat.com
 
+# Dcard
++.dcard.tw
++.dcard.io
++.dcard.cc
+
 # Pinterest
 +.pinterest.com
 
