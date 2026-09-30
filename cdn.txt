@@ -160,4 +160,10 @@ steamvideo-a.akamaihd.net
 steamcdn-a.akamaihd.net
 media.steampowered.com
 
+# Blip
++.blip.net
++.amazonaws.com
+
 # Others
++.growcdnssedge.com
++.sacdnssedge.com
