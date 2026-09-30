@@ -4,6 +4,7 @@
 +.1password.ca
 +.1passwordservices.com
 +.agilebits.com
++.pwnedpasswords.com
 
 # Bitwarden
 +.bitwarden.com
