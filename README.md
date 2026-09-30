@@ -1,5 +1,10 @@
 ## 分流規則
-該分支係 **surge** 嘅 `domain-set` 同 `rule-set`，`rule-set` 得 `ip-cidr` 同 `ip-cidr6`  
-`sample.conf` 中得 `rules` 嘅板塊
+該分支係 **mihomo** 嘅 `domain-set` 同 `ipcidr-set`
+匯入其他客戶端喺 **airconv** repo 中有轉換功能介紹
 
-另一叫 `mihomo` 嘅分支係 **mihomo** 嘅 `domain-set` 同 `ip-set`，內容同 `main` 分支完全一樣，只有格式上嘅差別
+## 重要事項
+`youtube.com` 同 `googlevideo.com` 要用同一節點，否則 YouTube 影片可能無法加載
+
+## 使用方式
+打咗 “#” 嘅 domain 要手動輸入到你自己用嘅 config 入邊去做好分流  
+可以用 sample.yaml 中的分流規則同規則集並複製到你的 config 入邊
