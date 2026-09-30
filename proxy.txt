@@ -7,6 +7,11 @@
 # Cloudflare
 +.cloudflare.com
 
+# Pornhub
++.pornhub.com
++.pornhub.org
++.pronstore.com
+
 # Termius
 +.termius.com
 +.split.io
