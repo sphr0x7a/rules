@@ -1,0 +1,26 @@
+# GitHub
++.github.io
+
+# Speedtest
++.speedtest.net
+
+# Cloudflare
++.cloudflare.com
+
+# Termius
++.termius.com
++.split.io
+
+# Things
++.culturedcode.com
+
+# Brave
++.brave.com
+
+# Samsung
++.samsung.com
+
+# Others
++.kansuiun.com
++.onesignal.com
++.bugsnag.com
