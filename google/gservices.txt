@@ -5,6 +5,11 @@
 +.keep.google.com
 +.docs.google.com
 
+# Google Photos Mobile
++.photos.googleapis.com
++.photoslibrary.googleapis.com
++.photosdata-pa.googleapis.com
+
 # Google Drive Client
 +.www.googleapis.com
 
