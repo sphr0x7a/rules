@@ -1,0 +1,3 @@
+# Oracle
++.oracle.com
++.oraclecloud.com
