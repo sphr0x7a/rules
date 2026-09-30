@@ -1,0 +1,17 @@
+# 1Password
++.1password.com
++.1password.eu
++.1password.ca
++.1passwordservices.com
++.agilebits.com
+
+# Bitwarden
++.bitwarden.com
+
+# PayPal
++.paypal.com
+
+# Wikipedia
++.wikipedia.org
++.wikimedia.org
++wikidata.org
