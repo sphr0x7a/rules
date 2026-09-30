@@ -1,0 +1,3 @@
++.youtube.com
++.youtubei.googleapis.com
++.googlevideo.com
