@@ -3,6 +3,8 @@
 +.inbox.google.com
 +.photos.google.com
 +.drive.google.com
++.calendar.google.com
++.tasks.google.com
 +.keep.google.com
 +.docs.google.com
 
