@@ -47,6 +47,9 @@
 +.xhscdn.net
 +.rednotecdn.com
 
+# Qweather
++.qweather.com
+
 # Shopping
 +.jd.com
 +.360buyimg.com
