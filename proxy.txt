@@ -12,6 +12,9 @@
 +.pornhub.org
 +.pronstore.com
 
+# Hellotalk
++.hellotalk8.com
+
 # Termius
 +.termius.com
 +.split.io
