@@ -57,6 +57,7 @@
 +.fbcdn.com
 +.cdn.fbsbx.com
 +.fbcdn.net
++.graph.instagram.com
 +.graph.facebook.com
 
 # TikTok CDN is in the 'social' folder
