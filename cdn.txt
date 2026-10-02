@@ -180,15 +180,6 @@ w3-reporting.reddit.com
 +.getdropbox.com
 +.paper-attachments.s3.amazonaws.com
 
-# Steam
-+.steamstatic.com
-steamuserimages-a.akamaihd.net
-steamusercontent-a.akamaihd.net
-steamvideo-a.akamaihd.net
-+.steamusercontent.com
-steamcdn-a.akamaihd.net
-media.steampowered.com
-
 # Cloudflare Download
 +.pkg.cloudflareclient.com
 +.pkg.cloudflare.com
@@ -236,6 +227,15 @@ media.steampowered.com
 # XMind
 +.dl2.xmind.net
 +.dl3.xmind.net
+
+# Steam
++.steamstatic.com
++.steamuserimages-a.akamaihd.net
++.steamusercontent-a.akamaihd.net
++.steamvideo-a.akamaihd.net
++.steamusercontent.com
++.steamcdn-a.akamaihd.net
++.media.steampowered.com
 
 # AdGuard
 +.static.adguard.com
