@@ -87,6 +87,25 @@
 +.join.secure.skypeassets.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+# Microsoft Download
++.download.visualstudio.microsoft.com
++.builds.dotnet.microsoft.com
++.software-download.microsoft.com
++.officecdn-microsoft-com.akamaized.net
++.officecdnmac.microsoft.com
++.delivery.mp.microsoft.com
++.download.prss.microsoft.com
++.update.microsoft.com
++.amupdatedl.microsoft.com
++.amupdatedl2.microsoft.com
++.amupdatedl3.microsoft.com
++.amupdatedl4.microsoft.com
++.amupdatedl5.microsoft.com
++.packages.microsoft.com
++.cdn.powershellgallery.com
++.edgeupdates.microsoft.com
++.update.code.visualstudio.com
++.az764295.vo.msecnd.net
 
 # Apple
 +.devimages-cdn.apple.com
@@ -109,10 +128,19 @@ img-s-msn-com.akamaized.net
 +.images-ext-1.discordapp.net
 +.images-ext-2.discordapp.net
 +.media.discordapp.net
+# Discord Download
++.dl.discordapp.net
++.dl2.discordapp.net
 
 # Pornhub
 +.phncdn.com
 +.phprcdn.com
+
+# 1Password
++.cache.agilebits.com
++.c.1password.com
++.downloads.1password.com
++.app-updates.agilebits.com
 
 # Reddit
 +.redditmedia.com
@@ -161,10 +189,59 @@ steamvideo-a.akamaihd.net
 steamcdn-a.akamaihd.net
 media.steampowered.com
 
+# Cloudflare Download
++.pkg.cloudflareclient.com
++.pkg.cloudflare.com
++.downloads.cloudflareclient.com
+
+# APKs
++.downloadr2.apkmirror.com
+
+# Surge
++.dl.nssurge.com
+
+# Stash
++.releases.stash.ws
++.mac-release-static.stash.ws
+
+# Mozilla
++.download.mozilla.org
++.download-installer.cdn.mozilla.net
++.versioncheck-bg.addons.mozilla.org
++.versioncheck.addons.mozilla.org
++.aus5.mozilla.org
+
+# Docker
++.docker.com
++.docker.io
+
+# MEGA
++.mega.nz
++.mega.io
++.mega.co.nz
+
+# SourceForge
++.downloads.sourceforge.net
++.dl.sourceforge.net
+
+# JetBrains
++.download.jetbrains.com
++.download-cdn.jetbrains.com
++.downloads.marketplace.jetbrains.com
+
 # Blip
 +.blip.net
 +.amazonaws.com
 
+# XMind
++.dl2.xmind.net
++.dl3.xmind.net
+
+# AdGuard
++.static.adguard.com
++.static.adtidy.org
+
 # Others
 +.growcdnssedge.com
 +.sacdnssedge.com
++.download.gigabyte.com
