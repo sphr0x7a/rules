@@ -10,6 +10,7 @@
 +.streamingaudio.itunes.apple.com
 # +.itunes.apple.com
 +.wps.apple.com
++.gsa.apple.com
 +.cdn-apple.com
 +.icloud.com
 +.icloud-content.com
