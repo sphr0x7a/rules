@@ -17,7 +17,6 @@
 +.lh6.google.com
 +.ogs.google.com
 # Google Play
-+.xn--ngstr-lra8j.com
 +.android.googleapis.com
 +.android.com
 +.gvt0.com
