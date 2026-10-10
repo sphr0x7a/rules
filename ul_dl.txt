@@ -1,0 +1,45 @@
+# GitHub
++.ghcr.io
++.codeload.github.com
++.objects.githubusercontent.com
++.pkg-containers.githubusercontent.com
++.release-assets.githubusercontent.com
+
+# Cloudflare R2
++.cloudflarestorage.com
++.r2.dev
+
+# Google
++.dl.google.com
+# Google Play
++.xn--ngstr-lra8j.com
+
+# Microsoft
+# OneDrive
++.files.1drv.com
+
+# Telegram
++.telegramdownload.com
+
+# Dropbox
++.dl.dropboxusercontent.com
+
+# Mega
++.usercontent.mega.co.nz
+
+# Docker
++.docker.com
++.docker.io
+
+# Mozilla
++.download.mozilla.org
++.download-installer.cdn.mozilla.net
+
+# SourceForge
++.downloads.sourceforge.net
++.dl.sourceforge.net
+
+# Jetbrain
++.download.jetbrains.com
++.download-cdn.jetbrains.com
++.downloads.marketplace.jetbrains.com
