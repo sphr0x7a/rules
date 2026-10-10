@@ -5,6 +5,10 @@
 +.pkg-containers.githubusercontent.com
 +.release-assets.githubusercontent.com
 
+# Cloudflare
++.pkg.cloudflareclient.com
++.pkg.cloudflare.com
++.downloads.cloudflareclient.com
 # Cloudflare R2
 +.cloudflarestorage.com
 +.r2.dev
