@@ -1,0 +1,11 @@
+# Google Photos
++.photos.google.com
+# Google Photos Mobile
++.photos.googleapis.com
++.photoslibrary.googleapis.com
++.photosdata-pa.googleapis.com
+
+# Google Drive
++.drive.google.com
+# Google Drive Client
++.www.googleapis.com
