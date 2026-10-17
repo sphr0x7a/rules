@@ -1,21 +1,13 @@
 +.gmail.com
 +.mail.google.com
 +.inbox.google.com
-+.photos.google.com
-+.drive.google.com
+# +.photos.google.com
+# +.drive.google.com
 +.calendar.google.com
 +.tasks.google.com
 +.keep.google.com
 +.docs.google.com
 +.translate.google.com
-
-# Google Photos Mobile
-+.photos.googleapis.com
-+.photoslibrary.googleapis.com
-+.photosdata-pa.googleapis.com
-
-# Google Drive Client
-+.www.googleapis.com
 
 # Google Other Domains
 +.google.com.hk
