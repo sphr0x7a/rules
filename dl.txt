@@ -1,3 +1,4 @@
+# Thanks SukkaW/Surge
 # GitHub
 +.ghcr.io
 +.codeload.github.com
@@ -18,6 +19,12 @@
 # Google Play
 +.xn--ngstr-lra8j.com
 
+# 1Password
+cache.agilebits.com
+c.1password.com
+downloads.1password.com
+app-updates.agilebits.com
+
 # Microsoft
 # OneDrive
 +.files.1drv.com
@@ -25,8 +32,16 @@
 # Telegram
 +.telegramdownload.com
 
+# Discord
++.dl.discordapp.net
++.dl2.discordapp.net
++.fnbuilds.services
+
 # Dropbox
 +.dl.dropboxusercontent.com
+
+# APKs
+# > F-Droid
 
 # Mega
 +.usercontent.mega.co.nz
@@ -47,3 +62,26 @@
 +.download.jetbrains.com
 +.download-cdn.jetbrains.com
 +.downloads.marketplace.jetbrains.com
+
+# Obsidian
++.releases.obsidian.md
+
+# PikPak
++.dl.pikpak.site
++.dl.pikpak.io
+
+# TailScale
++.pkgs.tailscale.com
++.dl.tailscale.com
+
+# Termius
++.autoupdate.termius.com
+
+# Keka
++.u.keka.io
+
+# TWRP
++.dl.twrp.me
+
+# WordPress
++.downloads.wordpress.org
