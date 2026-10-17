@@ -1,9 +1,6 @@
 # GitHub
 +.github.io
 
-# Speedtest
-+.speedtest.net
-
 # Cloudflare
 +.cloudflare.com
 
