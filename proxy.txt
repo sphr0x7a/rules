@@ -28,6 +28,9 @@
 # Samsung
 +.samsung.com
 
+# Aconvert
++.aconvert.com
+
 # Others
 +.kansuiun.com
 +.crashlytics.com
