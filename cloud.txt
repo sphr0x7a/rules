@@ -7,8 +7,11 @@
 
 # Google Drive
 +.drive.google.com
-+.drivefronted-pa.googleapis.com
-+.drivefronted-pa.clients6.google.com
++.drivefrontend-pa.googleapis.com
++.drivefrontend-pa.clients3.google.com
++.drivefrontend-pa.clients4.google.com
++.drivefrontend-pa.clients5.google.com
++.drivefrontend-pa.clients6.google.com
 +.drive-thirdparty.googleusercontent.com
 # Google Drive Client
 +.www.googleapis.com
