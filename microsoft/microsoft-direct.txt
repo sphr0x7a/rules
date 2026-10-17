@@ -32,6 +32,27 @@
 +.msftidentity.com
 +.microsoftazuread-sso.com
 
+# Microsoft Download
+# Microsoft .NET Runtime
++.download.visualstudio.microsoft.com
++.builds.dotnet.microsoft.com
+# Microsoft (Widows/Office/App) Download
++.software-download.microsoft.com
++.officecdn-microsoft-com.akamaized.net
++.officecdnmac.microsoft.com
++.delivery.mp.microsoft.com
++.download.prss.microsoft.com
++.update.microsoft.com
++.download.windowsupdate.com # Domestic
++.amupdatedl.microsoft.com
++.amupdatedl2.microsoft.com
++.amupdatedl3.microsoft.com
++.amupdatedl4.microsoft.com
++.amupdatedl5.microsoft.com
++.ctldl.windowsupdate.com
++.packages.microsoft.com
++.cdn.powershellgallery.com
+
 # Xbox
 +.xbox.com
 +.xboxlive.com
