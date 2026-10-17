@@ -1,3 +1,60 @@
 # Oracle
 +.oracle.com
 +.oraclecloud.com
+
+# NVIDIA (DIRECT)
++.download.nvidia.com
+
+# Linux (DIRECT)
+# > Alpine
++.dl-cdn.alpinelinux.org
+# > OpenWrt
++.downloads.openwrt.org
+# > Kali Linux
++.cdimage.kali.org
++.http.kali.org
++.kali.download
++.archive.kali.org
++.archive-4.kali.org
+# > Debian
++.cdimage.debian.org
++.deb.debian.org
++.archive.debian.org
++.ftp.debian.org
++.ftp2.de.debian.org
++.ftp-master.debian.org
++.debian.map.fastlydns.net
++.security.debian.org
++.cloudfront.debian.net
++.debian-archive.trafficmanager.net
+# > Ubuntu
++.archive.ubuntu.com
++.ports.ubuntu.com
++.security.ubuntu.com
++.cdimage.ubuntu.com
+# > Linux Mint
++.packages.linuxmint.com
+# > ElementaryOS
++.dl.elementary.io
+# > Fedora
++.mirrors.fedoraproject.org
++.registry.fedoraproject.org
++.copr.fedorainfracloud.org
++.mirrors.rpmfusion.org
+# > Rasberry Pi OS
++.archive.raspberrypi.com
+# > OpenSUSE
++.download.opensuse.org
++.cdn.opensuse.org
+# > PVE
++.enterprise.proxmox.com
+# > KDE
++.cdn.kde.org
++.invent.kde.org
+# > Raspberry Pi
++.downloads.raspberrypi.com
+# > SteamOS
++.steamdeck-images.steamos.cloud
++.steamdeck-packages.steamos.cloud
+# > FydeOS
++.download.fydeos.io
