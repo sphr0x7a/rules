@@ -70,6 +70,13 @@ app-updates.agilebits.com
 +.dl.pikpak.site
 +.dl.pikpak.io
 
+# Termux
++.packages-cf.termux.org
++.deb.kcubeterm.me
++.termux.mentality.rip
++.grimler.se
++.termux.liberhat.com
+
 # TailScale
 +.pkgs.tailscale.com
 +.dl.tailscale.com
