@@ -41,6 +41,8 @@ app-updates.agilebits.com
 +.dl.dropboxusercontent.com
 
 # APKs
+# APKPure
++.data.winudf.com
 # > F-Droid
 
 # Mega
