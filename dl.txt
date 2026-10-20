@@ -73,6 +73,7 @@ app-updates.agilebits.com
 +.dl.pikpak.io
 
 # Termux
++.termux.net
 +.packages-cf.termux.org
 +.deb.kcubeterm.me
 +.termux.mentality.rip
