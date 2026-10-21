@@ -20,10 +20,10 @@
 +.xn--ngstr-lra8j.com
 
 # 1Password
-cache.agilebits.com
-c.1password.com
-downloads.1password.com
-app-updates.agilebits.com
++.cache.agilebits.com
++.c.1password.com
++.downloads.1password.com
++.app-updates.agilebits.com
 
 # Microsoft
 # OneDrive
