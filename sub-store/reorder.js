@@ -1,52 +1,63 @@
 /**
- * Sub-Store 关键字节点重排脚本
- * 规则：将包含【目标关键词】的节点，移动到包含【参考关键词】的节点后面
- * 格式：目标关键词 : 参考关键词，多组用逗号隔开
+ * Sub-Store 关键字节点重排脚本（支持 Key-Value 参数解析）
+ * 规则：支持传入键值对，自动提取规则内容并执行重排
  */
 function operator(proxies, arg) {
     if (!proxies || proxies.length === 0) return proxies;
     if (!arg) return proxies;
 
-    let actions = [];
+    let rawString = "";
 
     try {
-        // 1. 支持 JSON 格式，例如：[["香港 01", "台湾 01"], ["US", "JP"]]
-        if (typeof arg === 'string' && arg.trim().startsWith('[')) {
-            actions = JSON.parse(arg);
+        // 情况 1：如果 arg 本身是对象（JSON 格式传入）
+        if (typeof arg === 'object' && arg !== null) {
+            // 优先读取 rules 或 actions 键，如果没有则取第一个键的值
+            rawString = arg.rules || arg.actions || Object.values(arg)[0] || "";
         } 
-        // 2. 支持简易文本格式，用冒号 (:) 隔开，多组用逗号 (,) 隔开
+        // 情况 2：如果 arg 是字符串
         else if (typeof arg === 'string') {
-            actions = arg.split(',').map(pair => {
-                const parts = pair.split(/[:：]/).map(s => s.trim());
-                return parts.length === 2 ? parts : null;
-            }).filter(Boolean);
-        } 
-        // 3. 如果本身就是数组
-        else if (Array.isArray(arg)) {
-            actions = arg;
+            let trimmed = arg.trim();
+            
+            // 2.1 尝试解析为 JSON 字符串
+            if (trimmed.startsWith('{') && trimmed.endsWith('}')) {
+                const parsedObj = JSON.parse(trimmed);
+                rawString = parsedObj.rules || parsedObj.actions || Object.values(parsedObj)[0] || "";
+            } 
+            // 2.2 尝试解析为 key=value 形式（如 rules=香港 01 : 台湾 01）
+            else if (trimmed.includes('=')) {
+                const parts = trimmed.split('=');
+                rawString = parts.slice(1).join('=').trim(); // 提取 value 部分
+            } 
+            // 2.3 普通纯文本直接使用
+            else {
+                rawString = trimmed;
+            }
         }
     } catch (e) {
-        console.error("解析关键词排序参数失败:", e);
+        console.error("解析参数失败:", e);
         return proxies;
     }
 
-    if (!actions || actions.length === 0) return proxies;
+    if (!rawString) return proxies;
 
-    // 依次执行每组关键词移动
+    // 解析规则：以逗号分多组，每组用冒号（支持半角 : 和全角 ：）分隔目标与参考关键词
+    let actions = rawString.split(',').map(pair => {
+        const parts = pair.split(/[:：]/).map(s => s.trim());
+        return parts.length === 2 ? parts : null;
+    }).filter(Boolean);
+
+    if (actions.length === 0) return proxies;
+
+    // 依次执行关键词移动
     actions.forEach(([targetKw, refKw]) => {
         if (!targetKw || !refKw) return;
 
-        // 动态查找当前状态下包含关键词的节点下标
         const fromIndex = proxies.findIndex(p => p.name.includes(targetKw));
         const refIndex = proxies.findIndex(p => p.name.includes(refKw));
 
-        // 只有当两个节点都能通过关键词找到时才执行移动
         if (fromIndex !== -1 && refIndex !== -1) {
-            // 1. 剪切出要移动的节点
             const [item] = proxies.splice(fromIndex, 1);
-            // 2. 重新定位参考节点当前的实际下标（防止因为前面的改动导致位置偏移）
             const newRefIndex = proxies.findIndex(p => p.name.includes(refKw));
-            // 3. 插入到参考节点后面
             proxies.splice(newRefIndex + 1, 0, item);
         }
     });
