@@ -1,6 +1,5 @@
 /**
- * Sub-Store 关键字节点重排脚本（支持多组 Key-Value 参数 & 关键词带引号）
- * 规则：自动解析 key=value，支持对关键词加双引号/单引号包裹
+ * Sub-Store 关键字节点重排脚本（支持自然排序 & 关键词带引号）
  */
 function operator(proxies) {
     if (!proxies || !Array.isArray(proxies) || proxies.length === 0) return proxies;
@@ -10,12 +9,19 @@ function operator(proxies) {
 
     try {
         if (typeof $arguments === 'object' && $arguments !== null) {
-            ruleStrings = Object.values($arguments).map(v => String(v));
+            // 核心修复：使用自然排序 (numeric: true)，确保 r9 在 r10 之前，解决字典序错乱问题
+            const sortedKeys = Object.keys($arguments).sort((a, b) => {
+                return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+            });
+            ruleStrings = sortedKeys.map(k => String($arguments[k]));
         } else if (typeof $arguments === 'string') {
             let trimmed = $arguments.trim();
             if (trimmed.startsWith('{') && trimmed.endsWith('}')) {
                 const obj = JSON.parse(trimmed);
-                ruleStrings = Object.values(obj).map(v => String(v));
+                const sortedKeys = Object.keys(obj).sort((a, b) => {
+                    return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+                });
+                ruleStrings = sortedKeys.map(k => String(obj[k]));
             } else {
                 const pairs = trimmed.split(/[\n&]/);
                 pairs.forEach(pair => {
@@ -40,10 +46,8 @@ function operator(proxies) {
     ruleStrings.forEach(str => {
         const subRules = str.split(',').map(s => s.trim()).filter(Boolean);
         subRules.forEach(rule => {
-            // 分割冒号（支持半角和全角）
             const parts = rule.split(/[:：]/).map(s => {
                 let cleaned = s.trim();
-                // 核心：如果关键词被双引号或单引号包裹，自动剥离外层引号
                 if ((cleaned.startsWith('"') && cleaned.endsWith('"')) || (cleaned.startsWith("'") && cleaned.endsWith("'"))) {
                     cleaned = cleaned.slice(1, -1).trim();
                 }
