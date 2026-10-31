@@ -17,7 +17,7 @@ function operator(proxies, arg) {
         // 2. 支持简易文本格式，用冒号 (:) 隔开，多组用逗号 (,) 隔开
         else if (typeof arg === 'string') {
             actions = arg.split(',').map(pair => {
-                const parts = pair.split(':').map(s => s.trim());
+                const parts = pair.split(/[:：]/).map(s => s.trim());
                 return parts.length === 2 ? parts : null;
             }).filter(Boolean);
         } 
