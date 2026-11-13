@@ -1,97 +1,97 @@
 # Thanks SukkaW/Surge
 # GitHub
-+.ghcr.io
-+.codeload.github.com
-+.objects.githubusercontent.com
-+.pkg-containers.githubusercontent.com
-+.release-assets.githubusercontent.com
+.ghcr.io
+.codeload.github.com
+.objects.githubusercontent.com
+.pkg-containers.githubusercontent.com
+.release-assets.githubusercontent.com
 
 # Cloudflare
-+.pkg.cloudflareclient.com
-+.pkg.cloudflare.com
-+.downloads.cloudflareclient.com
+.pkg.cloudflareclient.com
+.pkg.cloudflare.com
+.downloads.cloudflareclient.com
 # Cloudflare R2
-+.cloudflarestorage.com
-+.r2.dev
+.cloudflarestorage.com
+.r2.dev
 
 # Google
-+.dl.google.com
+.dl.google.com
 # Google Play
-+.xn--ngstr-lra8j.com
+.xn--ngstr-lra8j.com
 
 # 1Password
-+.cache.agilebits.com
-+.c.1password.com
-+.downloads.1password.com
-+.app-updates.agilebits.com
+.cache.agilebits.com
+.c.1password.com
+.downloads.1password.com
+.app-updates.agilebits.com
 
 # Microsoft
 # OneDrive
-+.files.1drv.com
+.files.1drv.com
 
 # Telegram
-+.telegramdownload.com
+.telegramdownload.com
 
 # Discord
-+.dl.discordapp.net
-+.dl2.discordapp.net
-+.fnbuilds.services
+.dl.discordapp.net
+.dl2.discordapp.net
+.fnbuilds.services
 
 # Dropbox
-+.dl.dropboxusercontent.com
+.dl.dropboxusercontent.com
 
 # APKs
 # APKPure
-+.data.winudf.com
+.data.winudf.com
 # > F-Droid
 
 # Mega
-+.usercontent.mega.co.nz
+.usercontent.mega.co.nz
 
 # Docker
-+.docker.com
-+.docker.io
+.docker.com
+.docker.io
 
 # Mozilla
-+.download.mozilla.org
-+.download-installer.cdn.mozilla.net
+.download.mozilla.org
+.download-installer.cdn.mozilla.net
 
 # SourceForge
-+.downloads.sourceforge.net
-+.dl.sourceforge.net
+.downloads.sourceforge.net
+.dl.sourceforge.net
 
 # Jetbrain
-+.download.jetbrains.com
-+.download-cdn.jetbrains.com
-+.downloads.marketplace.jetbrains.com
+.download.jetbrains.com
+.download-cdn.jetbrains.com
+.downloads.marketplace.jetbrains.com
 
 # Obsidian
-+.releases.obsidian.md
+.releases.obsidian.md
 
 # PikPak
-+.dl.pikpak.site
-+.dl.pikpak.io
+.dl.pikpak.site
+.dl.pikpak.io
 
 # Termux
-+.termux.net
-+.packages-cf.termux.org
-+.deb.kcubeterm.me
-+.termux.mentality.rip
-+.grimler.se
-+.termux.liberhat.com
+.termux.net
+.packages-cf.termux.org
+.deb.kcubeterm.me
+.termux.mentality.rip
+.grimler.se
+.termux.liberhat.com
 
 # TailScale
-+.pkgs.tailscale.com
-+.dl.tailscale.com
+.pkgs.tailscale.com
+.dl.tailscale.com
 
 # Termius
-+.autoupdate.termius.com
+.autoupdate.termius.com
 
 # Keka
-+.u.keka.io
+.u.keka.io
 
 # TWRP
-+.dl.twrp.me
+.dl.twrp.me
 
 # WordPress
-+.downloads.wordpress.org
+.downloads.wordpress.org
