@@ -1,59 +1,59 @@
 # Thanks Accademia/Additional_Rule_For_Clash/MicrosoftAPPs
 # Windows
-+.msn.cn
-+.data.microsoft.com
-+.mp.microsoft.com
-+.update.microsoft.com
-+.windows.com
-+.windows.net
-+.windowsupdate.com
+.msn.cn
+.data.microsoft.com
+.mp.microsoft.com
+.update.microsoft.com
+.windows.com
+.windows.net
+.windowsupdate.com
 # 核心底層服務 & 網路判斷
-+.svc.ms
-+.msftconnecttest.com
-+.msftncsi.com
+.svc.ms
+.msftconnecttest.com
+.msftncsi.com
 
 # CDN
-+.cdn.office.net
+.cdn.office.net
 
 # Microsoft Store
-+.microsoftstore.com
-+.onestore.ms
+.microsoftstore.com
+.onestore.ms
 
 # 身份驗證 & 安全
-+.microsoftonline.com
-+.microsoftonline-p.com
-+.microsoftonline-p.net
-+.msauth.net
-+.msauthimages.net
-+.msftauth.net
-+.msftauthimages.net
-+.phonefactor.net
-+.msidentity.com
-+.msftidentity.com
-+.microsoftazuread-sso.com
+.microsoftonline.com
+.microsoftonline-p.com
+.microsoftonline-p.net
+.msauth.net
+.msauthimages.net
+.msftauth.net
+.msftauthimages.net
+.phonefactor.net
+.msidentity.com
+.msftidentity.com
+.microsoftazuread-sso.com
 
 # Microsoft Download
 # Microsoft .NET Runtime
-+.download.visualstudio.microsoft.com
-+.builds.dotnet.microsoft.com
+.download.visualstudio.microsoft.com
+.builds.dotnet.microsoft.com
 # Microsoft (Widows/Office/App) Download
-+.software-download.microsoft.com
-+.officecdn-microsoft-com.akamaized.net
-+.officecdnmac.microsoft.com
-+.delivery.mp.microsoft.com
-+.download.prss.microsoft.com
-+.update.microsoft.com
-+.download.windowsupdate.com # Domestic
-+.amupdatedl.microsoft.com
-+.amupdatedl2.microsoft.com
-+.amupdatedl3.microsoft.com
-+.amupdatedl4.microsoft.com
-+.amupdatedl5.microsoft.com
-+.ctldl.windowsupdate.com
-+.packages.microsoft.com
-+.cdn.powershellgallery.com
+.software-download.microsoft.com
+.officecdn-microsoft-com.akamaized.net
+.officecdnmac.microsoft.com
+.delivery.mp.microsoft.com
+.download.prss.microsoft.com
+.update.microsoft.com
+.download.windowsupdate.com # Domestic
+.amupdatedl.microsoft.com
+.amupdatedl2.microsoft.com
+.amupdatedl3.microsoft.com
+.amupdatedl4.microsoft.com
+.amupdatedl5.microsoft.com
+.ctldl.windowsupdate.com
+.packages.microsoft.com
+.cdn.powershellgallery.com
 
 # Xbox
-+.xbox.com
-+.xboxlive.com
-+.xboxservices.com
+.xbox.com
+.xboxlive.com
+.xboxservices.com
