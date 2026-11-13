@@ -1,17 +1,17 @@
-+.tiktokcdn-us.com
-+.tiktokcdn-eu.com
-+.tiktokcdn.com
-+.tiktokv.us
-+.tiktokv.eu
-+.tiktokv.com
-+.tiktokw.us
-+.tiktokw.eu
-+.tiktokw.com
-+.p16-tiktokcdn-com.akamaized.net
-+.p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
-+.ibytedtos.com
-+.bytedapm.com
+.tiktokcdn-us.com
+.tiktokcdn-eu.com
+.tiktokcdn.com
+.tiktokv.us
+.tiktokv.eu
+.tiktokv.com
+.tiktokw.us
+.tiktokw.eu
+.tiktokw.com
+.p16-tiktokcdn-com.akamaized.net
+.p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
+.ibytedtos.com
+.bytedapm.com
 sf-coze-web-cdn.coze.com
 
 # Lemon8
-+.lemon8cdn.com
+.lemon8cdn.com
