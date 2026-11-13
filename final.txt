@@ -1,2 +1,2 @@
 # Speedtest
-+.speedtest.net
+.speedtest.net
