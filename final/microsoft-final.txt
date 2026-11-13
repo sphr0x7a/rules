@@ -1,1 +1,1 @@
-+.microsoft.com
+.microsoft.com
