@@ -1,2 +1,2 @@
-+.googleapis.com
-+.google.com
+.googleapis.com
+.google.com
