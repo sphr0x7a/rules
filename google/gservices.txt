@@ -1,14 +1,14 @@
-+.gmail.com
-+.mail.google.com
-+.inbox.google.com
-# +.photos.google.com
-# +.drive.google.com
-+.calendar.google.com
-+.tasks.google.com
-+.keep.google.com
-+.docs.google.com
-+.translate.google.com
+.gmail.com
+.mail.google.com
+.inbox.google.com
+# .photos.google.com
+# .drive.google.com
+.calendar.google.com
+.tasks.google.com
+.keep.google.com
+.docs.google.com
+.translate.google.com
 
 # Google Other Domains
-+.google.com.hk
-+.google.cn
+.google.com.hk
+.google.cn
