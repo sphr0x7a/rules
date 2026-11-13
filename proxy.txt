@@ -1,36 +1,36 @@
 # GitHub
-+.github.io
+.github.io
 
 # Cloudflare
-+.cloudflare.com
+.cloudflare.com
 
 # Pornhub
-+.pornhub.com
-+.pornhub.org
-+.pronstore.com
+.pornhub.com
+.pornhub.org
+.pronstore.com
 
 # Hellotalk
-+.hellotalk8.com
+.hellotalk8.com
 
 # Termius
-+.termius.com
-+.split.io
+.termius.com
+.split.io
 
 # Things
-+.culturedcode.com
+.culturedcode.com
 
 # Brave
-+.brave.com
+.brave.com
 
 # Samsung
-+.samsung.com
+.samsung.com
 
 # Aconvert
-+.aconvert.com
+.aconvert.com
 
 # Others
-+.kansuiun.com
-+.crashlytics.com
-+.superwall.com
-+.onesignal.com
-+.bugsnag.com
+.kansuiun.com
+.crashlytics.com
+.superwall.com
+.onesignal.com
+.bugsnag.com
