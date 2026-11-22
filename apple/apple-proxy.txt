@@ -1,7 +1,7 @@
 # Thanks Elysian-Realme/FuGfConfig
 apple.com
 +.me.com
-# +.cdn-apple.com
+# .cdn-apple.com
 +.ocsp.apple.com
 +.gspe1-ssl.ls.apple.com
 +.apple-dns.net

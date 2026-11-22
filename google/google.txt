@@ -1,6 +1,6 @@
 # google.com
-# +.youtube.com
-# +.gmail.com
+# .youtube.com
+# .gmail.com
 +.gemini.google.com
 +.bard.google.com
 +.oauth2.google.com

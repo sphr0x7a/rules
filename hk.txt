@@ -5,7 +5,7 @@
 
 # Viu
 +.viu.tv
-# +.nowe.com
+# .nowe.com
 
 # Gov HK
 +.gov.hk

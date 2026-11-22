@@ -1,8 +1,8 @@
 # Google
-# +.googlevideo.com
+# .googlevideo.com
 +.googleusercontent.com
 +.content-storage-upload.googleapis.com
-# +.content-storage-download.googleapis.com
+# .content-storage-download.googleapis.com
 +.upload.googleapis.com
 +.update.googleapis.com
 +.video.google.com
@@ -71,7 +71,7 @@
 +.telegra.ph
 
 # GitHub
-# +.githubusercontent.com
+# .githubusercontent.com
 +.githubassets.com
 +.ghcr.io
 +.git.io
