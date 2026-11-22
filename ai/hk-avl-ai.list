@@ -1,0 +1,20 @@
+# Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,ecs.office.com
+DOMAIN-SUFFIX,designer.microsoft.com
+DOMAIN-SUFFIX,designerapp.osi.office.net
+DOMAIN-SUFFIX,designerapp.officeapps.live.com
+
+# Perplexity
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.com
+
+# Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+# Manus
+DOMAIN-SUFFIX,manus.im

@@ -1,0 +1,97 @@
+# Thanks SukkaW/Surge
+# GitHub
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+DOMAIN-SUFFIX,release-assets.githubusercontent.com
+
+# Cloudflare
+DOMAIN-SUFFIX,pkg.cloudflareclient.com
+DOMAIN-SUFFIX,pkg.cloudflare.com
+DOMAIN-SUFFIX,downloads.cloudflareclient.com
+# Cloudflare R2
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,r2.dev
+
+# Google
+DOMAIN-SUFFIX,dl.google.com
+# Google Play
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# 1Password
+DOMAIN-SUFFIX,cache.agilebits.com
+DOMAIN-SUFFIX,c.1password.com
+DOMAIN-SUFFIX,downloads.1password.com
+DOMAIN-SUFFIX,app-updates.agilebits.com
+
+# Microsoft
+# OneDrive
+DOMAIN-SUFFIX,files.1drv.com
+
+# Telegram
+DOMAIN-SUFFIX,telegramdownload.com
+
+# Discord
+DOMAIN-SUFFIX,dl.discordapp.net
+DOMAIN-SUFFIX,dl2.discordapp.net
+DOMAIN-SUFFIX,fnbuilds.services
+
+# Dropbox
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
+
+# APKs
+# APKPure
+DOMAIN-SUFFIX,data.winudf.com
+# > F-Droid
+
+# Mega
+DOMAIN-SUFFIX,usercontent.mega.co.nz
+
+# Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
+# Mozilla
+DOMAIN-SUFFIX,download.mozilla.org
+DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
+
+# SourceForge
+DOMAIN-SUFFIX,downloads.sourceforge.net
+DOMAIN-SUFFIX,dl.sourceforge.net
+
+# Jetbrain
+DOMAIN-SUFFIX,download.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
+
+# Obsidian
+DOMAIN-SUFFIX,releases.obsidian.md
+
+# PikPak
+DOMAIN-SUFFIX,dl.pikpak.site
+DOMAIN-SUFFIX,dl.pikpak.io
+
+# Termux
+DOMAIN-SUFFIX,termux.net
+DOMAIN-SUFFIX,packages-cf.termux.org
+DOMAIN-SUFFIX,deb.kcubeterm.me
+DOMAIN-SUFFIX,termux.mentality.rip
+DOMAIN-SUFFIX,grimler.se
+DOMAIN-SUFFIX,termux.liberhat.com
+
+# TailScale
+DOMAIN-SUFFIX,pkgs.tailscale.com
+DOMAIN-SUFFIX,dl.tailscale.com
+
+# Termius
+DOMAIN-SUFFIX,autoupdate.termius.com
+
+# Keka
+DOMAIN-SUFFIX,u.keka.io
+
+# TWRP
+DOMAIN-SUFFIX,dl.twrp.me
+
+# WordPress
+DOMAIN-SUFFIX,downloads.wordpress.org

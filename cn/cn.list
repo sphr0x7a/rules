@@ -1,0 +1,160 @@
+# Tencent
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+
+# Alibaba
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,dingtalk.com
+
+# Bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,ourdvsss.com
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,ksyungslb.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,bilivideo.com
+
+# Xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,rednotecdn.com
+
+# Qweather
+DOMAIN-SUFFIX,qweather.com
+
+# Shopping
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,goofish.com
+
+# Douyin
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+
+# Meituan
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com
+
+# NetEase
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,yeah.net
+
+# Baidu
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidu.cn
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baidupcs.cn
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,hao123.net
+
+# Xiaomi
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomixiaoai.com
+
+# Moji
+DOMAIN-SUFFIX,moji.com
+
+# Deepseek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,volces.com
+
+# Kimi
+DOMAIN-SUFFIX,moonshot.cn
+
+# ABC
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,abchina.com.cn
+DOMAIN-SUFFIX,95599.cn
+
+# Ctrip
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,tripcdn.cn
+
+# Huawei
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,huawei.com.cn
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,dbankcloud.asia
+DOMAIN-SUFFIX,dbankcdn.com
+DOMAIN-SUFFIX,dbankcdn.cn
+
+# 歌曲寶
+DOMAIN-SUFFIX,gequbao.com
+DOMAIN-SUFFIX,gequbao.net
+
+# 123雲盤
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,xaidc.com
+DOMAIN-SUFFIX,123295.com
+DOMAIN-SUFFIX,123957.com
+DOMAIN-SUFFIX,123795.com
+DOMAIN-SUFFIX,cjjd19.com
+
+# 古文島
+DOMAIN-SUFFIX,guwendao.net
+
+# CN GOV
+DOMAIN-SUFFIX,gov.cn
+
+# Others
+DOMAIN-SUFFIX,chelaile.net.cn
+DOMAIN-SUFFIX,tliveapp.com
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com

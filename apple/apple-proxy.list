@@ -1,0 +1,37 @@
+# Thanks Elysian-Realme/FuGfConfig
+DOMAIN,apple.com
+DOMAIN-SUFFIX,me.com
+# .cdn-apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,tv.applemusic.com
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,news-assets.apple.com
+DOMAIN-SUFFIX,news-client.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,safebrowsing.apple
+
+# iCloud
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,cvws.icloud-content.com
+
+# iTunes
+DOMAIN-SUFFIX,np-edge.itunes.apple.com
+DOMAIN-SUFFIX,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,sandbox.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,uts-api.itunes.apple.com
+DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,hls-svod.itunes.apple.com                                                                      

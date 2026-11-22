@@ -1,0 +1,23 @@
+# google.com
+# .youtube.com
+# .gmail.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,oauth2.google.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,content-autofill.googleapis.com
+DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,myaccount.google.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,pixel.google.com
+DOMAIN-SUFFIX,ip.google.com

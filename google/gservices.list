@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,inbox.google.com
+# .photos.google.com
+# .drive.google.com
+DOMAIN-SUFFIX,calendar.google.com
+DOMAIN-SUFFIX,tasks.google.com
+DOMAIN-SUFFIX,keep.google.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,translate.google.com
+
+# Google Other Domains
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.cn

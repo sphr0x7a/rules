@@ -1,0 +1,18 @@
+# 1Password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,pwnedpasswords.com
+
+# Bitwarden
+DOMAIN-SUFFIX,bitwarden.com
+
+# PayPal
+DOMAIN-SUFFIX,paypal.com
+
+# Wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikidata.org

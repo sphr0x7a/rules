@@ -1,2 +1,0 @@
-.googleapis.com
-.google.com

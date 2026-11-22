@@ -1,0 +1,17 @@
+# Google Photos
+DOMAIN-SUFFIX,photos.google.com
+# Google Photos Mobile
+DOMAIN-SUFFIX,photos.googleapis.com
+DOMAIN-SUFFIX,photoslibrary.googleapis.com
+DOMAIN-SUFFIX,photosdata-pa.googleapis.com
+
+# Google Drive
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,drivefrontend-pa.googleapis.com
+DOMAIN-SUFFIX,drivefrontend-pa.clients3.google.com
+DOMAIN-SUFFIX,drivefrontend-pa.clients4.google.com
+DOMAIN-SUFFIX,drivefrontend-pa.clients5.google.com
+DOMAIN-SUFFIX,drivefrontend-pa.clients6.google.com
+DOMAIN-SUFFIX,drive-thirdparty.googleusercontent.com
+# Google Drive Client
+DOMAIN-SUFFIX,www.googleapis.com

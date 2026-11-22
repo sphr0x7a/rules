@@ -1,0 +1,60 @@
+# Oracle
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+
+# NVIDIA (DIRECT)
+DOMAIN-SUFFIX,download.nvidia.com
+
+# Linux (DIRECT)
+# > Alpine
+DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
+# > OpenWrt
+DOMAIN-SUFFIX,downloads.openwrt.org
+# > Kali Linux
+DOMAIN-SUFFIX,cdimage.kali.org
+DOMAIN-SUFFIX,http.kali.org
+DOMAIN-SUFFIX,kali.download
+DOMAIN-SUFFIX,archive.kali.org
+DOMAIN-SUFFIX,archive-4.kali.org
+# > Debian
+DOMAIN-SUFFIX,cdimage.debian.org
+DOMAIN-SUFFIX,deb.debian.org
+DOMAIN-SUFFIX,archive.debian.org
+DOMAIN-SUFFIX,ftp.debian.org
+DOMAIN-SUFFIX,ftp2.de.debian.org
+DOMAIN-SUFFIX,ftp-master.debian.org
+DOMAIN-SUFFIX,debian.map.fastlydns.net
+DOMAIN-SUFFIX,security.debian.org
+DOMAIN-SUFFIX,cloudfront.debian.net
+DOMAIN-SUFFIX,debian-archive.trafficmanager.net
+# > Ubuntu
+DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,ports.ubuntu.com
+DOMAIN-SUFFIX,security.ubuntu.com
+DOMAIN-SUFFIX,cdimage.ubuntu.com
+# > Linux Mint
+DOMAIN-SUFFIX,packages.linuxmint.com
+# > ElementaryOS
+DOMAIN-SUFFIX,dl.elementary.io
+# > Fedora
+DOMAIN-SUFFIX,mirrors.fedoraproject.org
+DOMAIN-SUFFIX,registry.fedoraproject.org
+DOMAIN-SUFFIX,copr.fedorainfracloud.org
+DOMAIN-SUFFIX,mirrors.rpmfusion.org
+# > Rasberry Pi OS
+DOMAIN-SUFFIX,archive.raspberrypi.com
+# > OpenSUSE
+DOMAIN-SUFFIX,download.opensuse.org
+DOMAIN-SUFFIX,cdn.opensuse.org
+# > PVE
+DOMAIN-SUFFIX,enterprise.proxmox.com
+# > KDE
+DOMAIN-SUFFIX,cdn.kde.org
+DOMAIN-SUFFIX,invent.kde.org
+# > Raspberry Pi
+DOMAIN-SUFFIX,downloads.raspberrypi.com
+# > SteamOS
+DOMAIN-SUFFIX,steamdeck-images.steamos.cloud
+DOMAIN-SUFFIX,steamdeck-packages.steamos.cloud
+# > FydeOS
+DOMAIN-SUFFIX,download.fydeos.io

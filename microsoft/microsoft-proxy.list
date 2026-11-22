@@ -1,0 +1,22 @@
+# Thanks Accademia/Additional_Rule_For_Clash/MicrosoftAPPs
+DOMAIN,microsoft.com
+DOMAIN-SUFFIX,www.microsoft.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,outlookmobile.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,sharepointonline.com

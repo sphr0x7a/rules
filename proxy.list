@@ -1,0 +1,40 @@
+# GitHub
+DOMAIN-SUFFIX,github.io
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+
+# Pornhub
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhub.org
+DOMAIN-SUFFIX,pronstore.com
+
+# Hellotalk
+DOMAIN-SUFFIX,hellotalk8.com
+
+# Termius
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,split.io
+
+# Things
+DOMAIN-SUFFIX,culturedcode.com
+
+# Brave
+DOMAIN-SUFFIX,brave.com
+
+# Samsung
+DOMAIN-SUFFIX,samsung.com
+
+# Aconvert
+DOMAIN-SUFFIX,aconvert.com
+
+# DbankCloud
+DOMAIN-SUFFIX,dbankcloud.eu
+DOMAIN-SUFFIX,dbankcloud.ru
+
+# Others
+DOMAIN-SUFFIX,kansuiun.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,superwall.com
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,bugsnag.com

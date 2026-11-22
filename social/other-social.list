@@ -1,0 +1,55 @@
+# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,api.imem.app
+DOMAIN-SUFFIX,api.swiftgram.app
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+
+# X
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+
+# Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordsays.com
+
+# Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+
+# Snapchat
+DOMAIN-SUFFIX,snapchat.com
+
+# Dcard
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.cc
+
+# Pinterest
+DOMAIN-SUFFIX,pinterest.com
+
+# LinkedIn
+DOMAIN-SUFFIX,linkedin.com

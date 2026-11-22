@@ -1,0 +1,59 @@
+# Thanks Accademia/Additional_Rule_For_Clash/MicrosoftAPPs
+# Windows
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
+# 核心底層服務 & 網路判斷
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# CDN
+DOMAIN-SUFFIX,cdn.office.net
+
+# Microsoft Store
+DOMAIN-SUFFIX,microsoftstore.com
+DOMAIN-SUFFIX,onestore.ms
+
+# 身份驗證 & 安全
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,microsoftonline-p.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,phonefactor.net
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+
+# Microsoft Download
+# Microsoft .NET Runtime
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,builds.dotnet.microsoft.com
+# Microsoft (Widows/Office/App) Download
+DOMAIN-SUFFIX,software-download.microsoft.com
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
+DOMAIN-SUFFIX,officecdnmac.microsoft.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com # Domestic
+DOMAIN-SUFFIX,amupdatedl.microsoft.com
+DOMAIN-SUFFIX,amupdatedl2.microsoft.com
+DOMAIN-SUFFIX,amupdatedl3.microsoft.com
+DOMAIN-SUFFIX,amupdatedl4.microsoft.com
+DOMAIN-SUFFIX,amupdatedl5.microsoft.com
+DOMAIN-SUFFIX,ctldl.windowsupdate.com
+DOMAIN-SUFFIX,packages.microsoft.com
+DOMAIN-SUFFIX,cdn.powershellgallery.com
+
+# Xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
