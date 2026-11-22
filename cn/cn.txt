@@ -129,6 +129,7 @@
 .hicloud.com
 .dbankcloud.cn
 .dbankcloud.com
+.dbankcloud.asia
 .dbankcdn.com
 .dbankcdn.cn
 
