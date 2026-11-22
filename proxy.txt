@@ -28,6 +28,10 @@
 # Aconvert
 .aconvert.com
 
+# DbankCloud
+.dbankcloud.eu
+.dbankcloud.ru
+
 # Others
 .kansuiun.com
 .crashlytics.com
