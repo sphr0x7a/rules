@@ -1,0 +1,134 @@
+name: Mihomo Rules Generator
+
+on:
+  push:
+    branches:
+      - surge
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 获取 surge 分支
+      - name: Checkout surge branch
+        uses: actions/checkout@v4
+        with:
+          ref: surge
+          fetch-depth: 0
+
+      # 2. 获取 mihomo 分支
+      - name: Prepare mihomo branch
+        run: |
+          git fetch origin mihomo
+          git worktree add ../mihomo origin/mihomo
+
+      # 3. 转换 TXT 文件并清理目标分支
+      - name: Generate and synchronize TXT files
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+
+          source_root = Path(".").resolve()
+          target_root = Path("../mihomo").resolve()
+
+          # 记录 surge 中所有 TXT 文件的相对路径
+          source_files = set()
+
+          # 遍历 surge 分支
+          for source in source_root.rglob("*"):
+
+              if not source.is_file():
+                  continue
+
+              relative = source.relative_to(source_root)
+
+              # 排除 Git 内部文件
+              if ".git" in relative.parts:
+                  continue
+
+              # 只处理 TXT 文件
+              if source.suffix.lower() != ".txt":
+                  continue
+
+              source_files.add(relative)
+
+              # 保持原有目录结构和文件名
+              target = target_root / relative
+
+              target.parent.mkdir(
+                  parents=True,
+                  exist_ok=True
+              )
+
+              # 读取原始文件
+              with source.open(
+                  "r",
+                  encoding="utf-8",
+                  newline=""
+              ) as f:
+                  lines = f.readlines()
+
+              output = []
+
+              # 转换行首为 . 的行
+              for line in lines:
+
+                  if line.startswith("."):
+                      line = "+" + line
+
+                  output.append(line)
+
+              # 写入 mihomo 分支
+              with target.open(
+                  "w",
+                  encoding="utf-8",
+                  newline=""
+              ) as f:
+                  f.writelines(output)
+
+              print(f"Generated: {relative}")
+
+          # 清理 mihomo 分支
+          # 只允许保留来自 surge 的 TXT 文件
+          for target in target_root.rglob("*"):
+
+              if not target.is_file():
+                  continue
+
+              relative = target.relative_to(target_root)
+
+              # 排除 Git 内部文件
+              if ".git" in relative.parts:
+                  continue
+
+              # 删除非 TXT 文件
+              # 删除 surge 中已经不存在的 TXT 文件
+              if relative not in source_files:
+                  target.unlink()
+                  print(f"Deleted: {relative}")
+
+          print("Mihomo synchronization completed.")
+
+          PY
+
+      # 4. 提交并推送到 mihomo
+      - name: Commit and push mihomo branch
+        run: |
+          cd ../mihomo
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: synchronize Mihomo TXT files"
+            git push origin HEAD:mihomo
+          else
+            echo "No changes to commit."
+          fi
