@@ -9,6 +9,22 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pronstore.com
 
+# Dropbox
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropbox.zendesk.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+
 # Hellotalk
 DOMAIN-SUFFIX,hellotalk8.com
 
