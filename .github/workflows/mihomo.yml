@@ -16,7 +16,7 @@ jobs:
     steps:
       # 1. 获取 surge 分支
       - name: Checkout surge branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: surge
           fetch-depth: 0
