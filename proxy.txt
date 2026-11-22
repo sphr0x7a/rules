@@ -9,6 +9,22 @@
 .pornhub.org
 .pronstore.com
 
+# Dropbox
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropbox.zendesk.com
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+
 # Hellotalk
 .hellotalk8.com
 
