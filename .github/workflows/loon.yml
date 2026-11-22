@@ -1,0 +1,177 @@
+name: Loon Lists Generator
+
+on:
+  push:
+    branches:
+      - surge
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 获取 surge 分支
+      - name: Checkout surge branch
+        uses: actions/checkout@v4
+        with:
+          ref: surge
+          fetch-depth: 0
+
+      # 2. 获取 loon 分支
+      - name: Prepare loon branch
+        run: |
+          git fetch origin loon
+          git worktree add ../loon origin/loon
+
+      # 3. 转换并同步文件
+      - name: Generate and synchronize Loon lists
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import shutil
+
+          source_root = Path(".").resolve()
+          target_root = Path("../loon").resolve()
+
+          # 记录目标分支应该存在的文件
+          expected_files = set()
+
+          # 遍历 surge 分支中的所有文件
+          for source in source_root.rglob("*"):
+
+              if not source.is_file():
+                  continue
+
+              relative = source.relative_to(source_root)
+
+              # 排除 Git 内部文件
+              if ".git" in relative.parts:
+                  continue
+
+              suffix = source.suffix.lower()
+
+              # 处理 TXT 文件
+              if suffix == ".txt":
+
+                  # 忽略文件名包含 -ip 的 TXT 文件
+                  if "-ip" in source.name.lower():
+                      print(f"Skipped IP file: {relative}")
+                      continue
+
+                  # 统一输出为 LIST 后缀
+                  target_relative = relative.with_suffix(".list")
+                  target = target_root / target_relative
+
+                  expected_files.add(target_relative)
+
+                  target.parent.mkdir(
+                      parents=True,
+                      exist_ok=True
+                  )
+
+                  # 读取原始文件
+                  with source.open(
+                      "r",
+                      encoding="utf-8-sig",
+                      newline=""
+                  ) as f:
+                      lines = f.readlines()
+
+                  output = []
+
+                  # 转换规则
+                  for line in lines:
+
+                      # 获取去除换行符后的内容
+                      content = line.rstrip("\r\n")
+
+                      # 空行保持不变
+                      if not content:
+                          output.append(line)
+                          continue
+
+                      # 注释行保持不变
+                      if content.startswith("#"):
+                          output.append(line)
+                          continue
+
+                      # . 开头转换为 DOMAIN-SUFFIX
+                      if content.startswith("."):
+                          line = "DOMAIN-SUFFIX," + line[1:]
+
+                      # 其他内容转换为 DOMAIN
+                      else:
+                          line = "DOMAIN," + line
+
+                      output.append(line)
+
+                  # 写入转换后的 LIST 文件
+                  with target.open(
+                      "w",
+                      encoding="utf-8",
+                      newline=""
+                  ) as f:
+                      f.writelines(output)
+
+                  print(f"Generated: {target_relative}")
+
+              # 直接迁移原始 LIST 文件
+              elif suffix == ".list":
+
+                  target_relative = relative.with_suffix(".list")
+                  target = target_root / target_relative
+
+                  expected_files.add(target_relative)
+
+                  target.parent.mkdir(
+                      parents=True,
+                      exist_ok=True
+                  )
+
+                  # 原样复制，不修改内容
+                  shutil.copy2(source, target)
+
+                  print(f"Copied: {target_relative}")
+
+          # 4. 清理 loon 分支中多余的文件
+          # 只保留本次从 surge 生成或复制的 LIST 文件
+          for target in target_root.rglob("*"):
+
+              if not target.is_file():
+                  continue
+
+              relative = target.relative_to(target_root)
+
+              # 排除 Git 内部文件
+              if ".git" in relative.parts:
+                  continue
+
+              # 删除不属于本次生成结果的文件
+              if relative not in expected_files:
+                  target.unlink()
+                  print(f"Deleted: {relative}")
+
+          print("Loon synchronization completed.")
+
+          PY
+
+      # 5. 提交并推送到 loon 分支
+      - name: Commit and push loon branch
+        run: |
+          cd ../loon
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: synchronize Loon lists"
+            git push origin HEAD:loon
+          else
+            echo "No changes to commit."
+          fi
