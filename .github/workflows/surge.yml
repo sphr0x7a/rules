@@ -74,7 +74,7 @@ jobs:
                               prefix = "IP-CIDR6,"
 
                           output_lines.append(
-                              prefix + value + ",no-resolve"
+                              prefix + value
                           )
 
                       except ValueError:
